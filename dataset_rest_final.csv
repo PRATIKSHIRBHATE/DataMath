@@ -1,0 +1,575 @@
+"","X","userID","Visit_Date","Visit.Hour","Order_Items","Total_Bill","Rpayment","address","city","state","country","zip","rating","food_rating","service_rating"
+"13",13,"U1055","01-04-17",23,"dosa,Chicken 65,Butter Chicken,Chapati,Veg Biryani,Ice Cream",1073,"cash","Wadgaon Sheri","Pune","Maharashtra","India",411927,4,3,4
+"14",14,"U1126","26-07-17",14,"wada,Chicken 65, , ,Mutton Biryani,Carrot Halwa",118,"cash","Ganeshkhind","Pune","Maharashtra","India",411375,5,2,3
+"15",15,"U1024","07-06-17",15,"wada,Chaat Papri,Beef Vindaloo, ,Pulao,Barfi",1547,"cash","Bavdhan","Pune","Maharashtra","India",411725,5,2,1
+"16",16,"U1004","06-11-17",8," ,Masala Papad,Chana Masala,Tandoor Roti,Veg Biryani,Cham-Cham",1050,"cash","Bibwewadi","Pune","Maharashtra","India",411714,1,5,5
+"17",17,"U1106","20-01-17",21,"Dhokla,chicken Kabab,Chicken Tikka,Chapati,Mutton Biryani, ",918,"cash","Wadgaon Sheri","Pune","Maharashtra","India",411080,4,5,2
+"18",18,"U1016","14-08-17",9,"paratha,Chicken 65,Beef Vindaloo,Tandoor Roti, ,Cham-Cham",514,"cash","Khadki","Pune","Maharashtra","India",411025,5,3,3
+"19",19,"U1101","02-02-17",10,"idli,Veg Kabab,Alu Gobi,Tandoor Roti,Veg Biryani,Cham-Cham",881,"cash","Dattawadi","Pune","Maharashtra","India",411816,3,2,1
+"20",20,"U1135","10-02-17",22,"dosa,Chili Chicken,Chicken Tikka, Aaloo paratha,Pulao,Gulab Jamun",1604,"cash","Bund Garden","Pune","Maharashtra","India",411354,4,5,2
+"21",21,"U1078","15-10-17",18," ,Chaat Papri, ,Tandoor Roti,Steam Rice,Barfi",1662,"cash","Pashan","Pune","Maharashtra","India",411905,4,3,3
+"22",22,"U1002","20-09-17",16,"wada,Veg Kabab,Dal Makhani, Aaloo paratha,Chicken Biriyani,Carrot Halwa",386,"cash","Bund Garden","Pune","Maharashtra","India",411478,1,5,1
+"23",23,"U1055","21-03-17",22," ,Veg Kabab,Chicken Tikka, Aaloo paratha,Mutton Biryani,Cham-Cham",1380,"cash","Dattawadi","Pune","Maharashtra","India",411483,2,1,3
+"24",24,"U1126","05-12-17",14,"wada, ,Dal Makhani,Tandoor Roti, , ",1938,"cash","Aundh","Pune","Maharashtra","India",411897,3,4,2
+"25",25,"U1024","22-01-17",14,"paratha,Chaat Papri,Paneer Butter Masala,Tandoor Roti, ,Cham-Cham",752,"cash","Yerwada","Pune","Maharashtra","India",411574,5,3,4
+"26",26,"U1004","01-11-17",23,"wada,Masala Papad,Chicken Tikka,Butter Naan,Pulao,Kheer",628,"cash","Deccan","Pune","Maharashtra","India",411369,4,3,4
+"27",27,"U1106","23-03-17",22,"wada,Chaat Papri,Chicken Tikka, Aaloo paratha,Pulao,Gulab Jamun",1118,"cash","Swargate","Pune","Maharashtra","India",411364,5,5,1
+"28",28,"U1016","04-05-17",9,"Dhokla,chicken Kabab,Paneer Butter Masala, Aaloo paratha,Pulao,Ice Cream",1183,"cash","Katraj","Pune","Maharashtra","India",411033,5,5,3
+"29",29,"U1101","28-09-17",11,"paratha,Chicken 65,Chicken Tikka,Chapati,Veg Biryani, ",1803,"cash","Koregaon Park","Pune","Maharashtra","India",411279,5,5,3
+"30",30,"U1135","30-10-17",14,"wada,Chili Chicken,Dal Makhani, , , ",1916,"cash","Aundh","Pune","Maharashtra","India",411996,3,4,4
+"31",31,"U1078","12-03-17",21,"paratha, ,Alu Gobi,Tandoor Roti,Veg Biryani,Kheer",1846,"cash","Kharadi","Pune","Maharashtra","India",411221,5,1,3
+"32",32,"U1002","11-01-17",9,"idli,chicken Kabab,Paneer Butter Masala, Aaloo paratha,Mutton Biryani, ",1571,"cash","Balewadi","Pune","Maharashtra","India",411501,1,3,2
+"33",33,"U1055","25-06-17",8," ,Chaat Papri,Alu Matar, Aaloo paratha,Pulao,Gulab Jamun",1777,"cash","Baner","Pune","Maharashtra","India",411172,1,5,4
+"34",34,"U1126","27-04-17",18,"paratha,Veg Kabab,Dal Makhani, ,Pulao, ",1672,"cash","Chandan Nagar","Pune","Maharashtra","India",411054,5,1,5
+"35",35,"U1024","09-12-17",13,"Dhokla,Masala Papad,Chana Masala,Butter Naan,Steam Rice,Kheer",248,"cash","Balewadi","Pune","Maharashtra","India",411050,1,4,4
+"36",36,"U1004","07-11-17",12,"idli,Chicken 65,Alu Matar,Chapati,Chicken Biriyani,Cham-Cham",1669,"cash","Chandan Nagar","Pune","Maharashtra","India",411067,4,5,3
+"37",37,"U1106","03-11-17",21," ,Veg Kabab,Chicken Tikka,Chapati,Pulao,Gulab Jamun",1379,"cash","Ganeshkhind","Pune","Maharashtra","India",411156,1,3,1
+"38",38,"U1016","28-06-17",16,"wada,Masala Papad,Alu Gobi,Chapati,Veg Biryani,Kulfi",530,"cash","Aundh","Pune","Maharashtra","India",411446,1,5,3
+"39",39,"U1101","01-09-17",22,"wada,Chili Chicken,Alu Matar, Aaloo paratha,Steam Rice,Ice Cream",199,"cash","Kharadi","Pune","Maharashtra","India",411941,4,2,3
+"40",40,"U1135","12-05-17",16,"idli,Chili Chicken,Beef Vindaloo, Aaloo paratha,Steam Rice,Cham-Cham",1414,"cash","Hadapsar","Pune","Maharashtra","India",411745,4,1,4
+"41",41,"U1078","20-10-17",23,"paratha,Masala Papad,Chana Masala, ,Chicken Biriyani, ",109,"cash","Bibwewadi","Pune","Maharashtra","India",411970,4,1,4
+"42",42,"U1002","15-08-17",21,"paratha, ,Dal Makhani, Aaloo paratha,Chicken Biriyani,Kheer",1623,"cash","Aundh","Pune","Maharashtra","India",411070,3,5,1
+"43",43,"U1055","25-09-17",16,"idli,Masala Papad,Beef Vindaloo,Tandoor Roti,Chicken Biriyani,Kheer",1548,"VISA","Bund Garden","Pune","Maharashtra","India",411311,5,4,5
+"44",44,"U1126","10-01-17",21,"idli,Chaat Papri,Butter Chicken,Chapati,Steam Rice,Barfi",125,"VISA","Katraj","Pune","Maharashtra","India",411221,2,2,4
+"45",45,"U1024","13-12-17",8,"Dhokla, , , ,Chicken Biriyani,Cham-Cham",790,"VISA","Aundh","Pune","Maharashtra","India",411265,3,1,3
+"46",46,"U1004","02-01-17",16,"wada,Veg Kabab,Chicken Tikka,Chapati,Mutton Biryani,Gulab Jamun",1393,"VISA","Wagholi","Pune","Maharashtra","India",411888,1,4,2
+"47",47,"U1106","12-02-17",17,"dosa,Veg Kabab,Beef Vindaloo,Butter Naan,Steam Rice,Kheer",1246,"VISA","Bavdhan","Pune","Maharashtra","India",411607,3,5,4
+"48",48,"U1016","26-02-17",22,"wada, ,Alu Matar,Tandoor Roti,Mutton Biryani,Gulab Jamun",895,"VISA","Koregaon Park","Pune","Maharashtra","India",411675,4,3,1
+"49",49,"U1101","12-10-17",7,"wada,Chili Chicken,Butter Chicken,Tandoor Roti,Chicken Biriyani,Carrot Halwa",456,"VISA","Aundh","Pune","Maharashtra","India",411859,4,1,2
+"50",50,"U1135","12-04-17",20,"dosa,Chili Chicken,Alu Gobi,Tandoor Roti,Veg Biryani, ",1941,"VISA","Hadapsar","Pune","Maharashtra","India",411729,5,5,1
+"51",51,"U1078","23-05-17",9,"Dhokla,Chili Chicken,Butter Chicken, Aaloo paratha,Chicken Biriyani,Kheer",1777,"VISA","Shivajinagar","Pune","Maharashtra","India",411812,5,5,1
+"52",52,"U1002","20-10-17",23,"Dhokla, ,Dal Makhani,Tandoor Roti,Steam Rice,Kulfi",241,"VISA","Bund Garden","Pune","Maharashtra","India",411300,5,4,3
+"53",53,"U1055","24-06-17",21,"idli,Masala Papad,Beef Vindaloo,Tandoor Roti,Chicken Biriyani,Gulab Jamun",1933,"VISA","Pashan","Pune","Maharashtra","India",411117,5,4,1
+"54",54,"U1126","18-08-17",22," , ,Alu Matar,Tandoor Roti,Chicken Biriyani,Gulab Jamun",1747,"VISA","Aundh","Pune","Maharashtra","India",411683,1,5,3
+"55",55,"U1024","26-12-17",11," , , , ,Mutton Biryani,Carrot Halwa",557,"VISA","Anandnagar","Pune","Maharashtra","India",411639,2,4,1
+"56",56,"U1004","27-09-17",12,"Dhokla,Veg Kabab,Paneer Butter Masala, ,Veg Biryani,Barfi",481,"VISA","Hadapsar","Pune","Maharashtra","India",411250,5,5,2
+"57",57,"U1106","22-03-17",9,"idli,Chicken 65, , Aaloo paratha,Pulao,Cham-Cham",1536,"VISA","Baner","Pune","Maharashtra","India",411279,5,2,2
+"58",58,"U1016","26-10-17",18,"Dhokla,Chili Chicken,Chicken Tikka,Chapati, ,Gulab Jamun",350,"VISA","Bund Garden","Pune","Maharashtra","India",411791,1,3,5
+"59",59,"U1101","11-08-17",10,"wada,Chaat Papri, , ,Steam Rice,Barfi",674,"VISA","Dattawadi","Pune","Maharashtra","India",411529,5,2,3
+"60",60,"U1135","23-12-17",21,"dosa,Chicken 65,Chicken Tikka, Aaloo paratha,Veg Biryani,Gulab Jamun",1116,"VISA","Bund Garden","Pune","Maharashtra","India",411560,5,4,1
+"61",61,"U1078","29-01-17",15,"Dhokla,Chili Chicken,Chana Masala,Tandoor Roti,Mutton Biryani,Carrot Halwa",361,"VISA","Chandan Nagar","Pune","Maharashtra","India",411437,4,2,1
+"62",62,"U1002","10-12-17",12,"Dhokla, ,Alu Matar,Chapati,Chicken Biriyani,Carrot Halwa",1730,"VISA","Bavdhan","Pune","Maharashtra","India",411244,1,4,1
+"63",63,"U1055","02-11-17",9," ,Chicken 65,Dal Makhani,Chapati,Pulao,Carrot Halwa",462,"VISA","Deccan","Pune","Maharashtra","India",411073,3,4,2
+"64",64,"U1126","06-06-17",13,"idli,Veg Kabab,Beef Vindaloo,Butter Naan, ,Carrot Halwa",172,"VISA","Ganeshkhind","Pune","Maharashtra","India",411997,1,1,1
+"65",65,"U1024","22-03-17",10,"Dhokla,Masala Papad,Chana Masala, ,Veg Biryani,Carrot Halwa",1452,"VISA","Kothrud","Pune","Maharashtra","India",411954,2,1,1
+"66",66,"U1004","08-10-17",23,"dosa,Chili Chicken,Butter Chicken, ,Pulao,Kheer",324,"VISA","Bavdhan","Pune","Maharashtra","India",411895,2,5,3
+"67",67,"U1106","06-05-17",19,"wada, ,Chicken Tikka,Tandoor Roti,Mutton Biryani,Ice Cream",1307,"VISA","Deccan","Pune","Maharashtra","India",411616,4,1,3
+"68",68,"U1016","02-09-17",12,"Dhokla,Chaat Papri,Butter Chicken, Aaloo paratha, ,Kheer",1823,"VISA","Khadki","Pune","Maharashtra","India",411481,2,2,2
+"69",69,"U1101","31-12-17",11,"Dhokla,Veg Kabab, ,Chapati,Pulao,Ice Cream",1890,"VISA","Dattawadi","Pune","Maharashtra","India",411569,2,1,3
+"70",70,"U1135","04-02-17",15," ,Chili Chicken,Chicken Tikka, ,Mutton Biryani,Cham-Cham",1443,"VISA","Bibwewadi","Pune","Maharashtra","India",411438,5,1,1
+"71",71,"U1078","22-01-17",15," ,Chaat Papri,Alu Matar, ,Veg Biryani,Kheer",414,"VISA","Wagholi","Pune","Maharashtra","India",411748,4,3,3
+"72",72,"U1002","17-12-17",15,"dosa,Veg Kabab,Dal Makhani, ,Veg Biryani, ",989,"VISA","Khadki","Pune","Maharashtra","India",411512,3,1,5
+"73",73,"U1055","11-08-17",8,"wada,Chili Chicken,Beef Vindaloo, Aaloo paratha,Chicken Biriyani, ",1642,"MasterCard-Eurocard","Katraj","Pune","Maharashtra","India",411642,4,2,3
+"74",74,"U1126","17-09-17",15,"dosa,Masala Papad,Paneer Butter Masala, ,Veg Biryani,Carrot Halwa",1922,"MasterCard-Eurocard","Swargate","Pune","Maharashtra","India",411787,2,5,5
+"75",75,"U1024","09-08-17",17," ,Veg Kabab,Paneer Butter Masala,Chapati,Pulao, ",1504,"MasterCard-Eurocard","Bund Garden","Pune","Maharashtra","India",411765,2,2,5
+"76",76,"U1004","26-07-17",19,"idli,Chaat Papri,Alu Matar,Butter Naan,Veg Biryani,Carrot Halwa",1972,"MasterCard-Eurocard","Katraj","Pune","Maharashtra","India",411524,5,1,3
+"77",77,"U1106","29-03-17",23,"wada,chicken Kabab,Alu Matar,Butter Naan,Chicken Biriyani,Barfi",383,"MasterCard-Eurocard","Bund Garden","Pune","Maharashtra","India",411797,4,1,5
+"78",78,"U1016","27-06-17",11,"Dhokla,Chili Chicken,Paneer Butter Masala, Aaloo paratha, ,Kulfi",1926,"MasterCard-Eurocard","Bund Garden","Pune","Maharashtra","India",411741,2,5,4
+"79",79,"U1101","13-11-17",17," , ,Butter Chicken, ,Steam Rice,Cham-Cham",1846,"MasterCard-Eurocard","Ganeshkhind","Pune","Maharashtra","India",411539,3,3,1
+"80",80,"U1135","31-08-17",9," ,Chaat Papri,Chana Masala,Chapati,Mutton Biryani,Gulab Jamun",163,"MasterCard-Eurocard","Baner","Pune","Maharashtra","India",411436,5,1,2
+"81",81,"U1078","06-08-17",20,"dosa,chicken Kabab,Paneer Butter Masala,Chapati,Pulao,Carrot Halwa",1733,"MasterCard-Eurocard","Balewadi","Pune","Maharashtra","India",411846,2,3,1
+"82",82,"U1002","23-08-17",17,"dosa,Masala Papad,Alu Matar,Tandoor Roti,Steam Rice,Kheer",1158,"MasterCard-Eurocard","Khadki","Pune","Maharashtra","India",411063,4,3,1
+"83",83,"U1055","24-08-17",18,"idli,chicken Kabab,Alu Matar, Aaloo paratha,Veg Biryani,Gulab Jamun",1402,"MasterCard-Eurocard","Koregaon Park","Pune","Maharashtra","India",411161,5,1,5
+"84",84,"U1126","18-03-17",20,"wada,Chaat Papri,Alu Matar,Tandoor Roti,Steam Rice,Kheer",1737,"MasterCard-Eurocard","Katraj","Pune","Maharashtra","India",411907,5,2,2
+"85",85,"U1024","30-03-17",13,"dosa,chicken Kabab,Alu Matar,Chapati,Steam Rice,Carrot Halwa",1088,"MasterCard-Eurocard","Katraj","Pune","Maharashtra","India",411391,3,5,4
+"86",86,"U1004","04-06-17",13,"paratha,Chaat Papri,Alu Matar, Aaloo paratha,Steam Rice,Gulab Jamun",1285,"MasterCard-Eurocard","Hadapsar","Pune","Maharashtra","India",411587,2,3,3
+"87",87,"U1106","15-07-17",18,"wada, ,Butter Chicken,Chapati,Veg Biryani,Gulab Jamun",606,"MasterCard-Eurocard","Dattawadi","Pune","Maharashtra","India",411791,1,1,3
+"88",88,"U1016","17-05-17",11,"paratha,Masala Papad,Alu Matar,Butter Naan,Veg Biryani,Barfi",1218,"MasterCard-Eurocard","Koregaon Park","Pune","Maharashtra","India",411917,2,5,5
+"89",89,"U1101","06-01-17",10,"paratha,Masala Papad,Alu Gobi,Chapati,Veg Biryani,Gulab Jamun",245,"MasterCard-Eurocard","Bibwewadi","Pune","Maharashtra","India",411803,4,1,1
+"90",90,"U1135","07-01-17",15,"dosa,Masala Papad,Alu Matar, Aaloo paratha,Pulao,Barfi",722,"MasterCard-Eurocard","Parvati Hill","Pune","Maharashtra","India",411042,4,3,2
+"91",91,"U1078","30-10-17",21,"wada,Chaat Papri,Butter Chicken,Butter Naan,Veg Biryani,Ice Cream",466,"MasterCard-Eurocard","Wagholi","Pune","Maharashtra","India",411534,2,5,5
+"92",92,"U1002","18-09-17",7,"wada,Chaat Papri,Beef Vindaloo, ,Pulao,Gulab Jamun",1671,"MasterCard-Eurocard","Katraj","Pune","Maharashtra","India",411194,2,2,2
+"93",93,"U1055","19-03-17",18,"idli,Chili Chicken,Chicken Tikka, Aaloo paratha,Pulao,Kheer",1141,"MasterCard-Eurocard","Ganeshkhind","Pune","Maharashtra","India",411839,3,2,5
+"94",94,"U1126","18-01-17",9,"Dhokla,Veg Kabab,Alu Matar,Butter Naan, , ",1129,"MasterCard-Eurocard","Katraj","Pune","Maharashtra","India",411257,5,5,3
+"95",95,"U1024","02-07-17",21,"Dhokla,Veg Kabab,Alu Gobi, Aaloo paratha, ,Barfi",136,"MasterCard-Eurocard","Hadapsar","Pune","Maharashtra","India",411030,3,3,5
+"96",96,"U1004","15-05-17",20,"Dhokla,Chaat Papri,Chicken Tikka,Chapati, ,Ice Cream",174,"MasterCard-Eurocard","Balewadi","Pune","Maharashtra","India",411862,2,5,3
+"97",97,"U1106","08-03-17",22," ,Chili Chicken,Butter Chicken,Chapati,Pulao, ",613,"MasterCard-Eurocard","Khadki","Pune","Maharashtra","India",411514,1,4,1
+"98",98,"U1016","03-01-17",22,"dosa,Veg Kabab, ,Chapati,Veg Biryani, ",416,"MasterCard-Eurocard","Parvati Hill","Pune","Maharashtra","India",411947,3,3,2
+"99",99,"U1101","08-06-17",8,"idli,Veg Kabab,Beef Vindaloo, ,Chicken Biriyani,Gulab Jamun",1056,"MasterCard-Eurocard","Khadki","Pune","Maharashtra","India",411374,5,4,5
+"100",100,"U1135","23-05-17",13,"wada,Chili Chicken,Chana Masala,Chapati, ,Cham-Cham",591,"MasterCard-Eurocard","Kothrud","Pune","Maharashtra","India",411918,1,5,3
+"101",101,"U1078","29-09-17",8," ,Veg Kabab,Beef Vindaloo,Tandoor Roti, , ",1054,"MasterCard-Eurocard","Pashan","Pune","Maharashtra","India",411910,2,1,1
+"102",102,"U1002","15-01-17",9,"dosa,Masala Papad,Alu Matar,Tandoor Roti,Chicken Biriyani,Carrot Halwa",1996,"MasterCard-Eurocard","Parvati Hill","Pune","Maharashtra","India",411480,2,3,3
+"184",184,"U1108","18-03-17",23,"dosa,chicken Kabab,Beef Vindaloo, Aaloo paratha,Mutton Biryani,Cham-Cham",1304,"cash","Anandnagar","Pune","Maharashtra","India",411208,4,4,2
+"185",185,"U1034","30-03-17",14,"wada,Veg Kabab,Alu Matar, Aaloo paratha,Pulao,Kheer",990,"cash","Balewadi","Pune","Maharashtra","India",411725,4,2,2
+"186",186,"U1095","04-06-17",22,"idli,Chaat Papri,Alu Gobi, ,Veg Biryani,Carrot Halwa",1426,"cash","Deccan","Pune","Maharashtra","India",411478,3,2,5
+"187",187,"U1007","15-07-17",7,"paratha,chicken Kabab,Beef Vindaloo, Aaloo paratha,Pulao,Gulab Jamun",460,"cash","Kharadi","Pune","Maharashtra","India",411956,5,3,1
+"188",188,"U1091","17-05-17",12,"wada,Chili Chicken,Chana Masala, Aaloo paratha,Mutton Biryani,Carrot Halwa",1421,"cash","Balewadi","Pune","Maharashtra","India",411624,2,1,2
+"189",189,"U1019","06-01-17",14,"dosa,Masala Papad,Paneer Butter Masala,Tandoor Roti,Chicken Biriyani,Kulfi",131,"cash","Pashan","Pune","Maharashtra","India",411921,4,5,1
+"190",190,"U1061","07-01-17",16,"wada,Chili Chicken,Alu Gobi,Tandoor Roti,Steam Rice,Carrot Halwa",1531,"cash","Yerwada","Pune","Maharashtra","India",411977,1,5,5
+"191",191,"U1112","30-10-17",18,"wada,Chili Chicken,Dal Makhani, Aaloo paratha,Chicken Biriyani,Gulab Jamun",431,"cash","Ganeshkhind","Pune","Maharashtra","India",411470,5,2,5
+"192",192,"U1096","18-09-17",15,"wada,Chicken 65,Paneer Butter Masala, ,Veg Biryani,Kheer",568,"cash","Parvati Hill","Pune","Maharashtra","India",411997,5,1,1
+"193",193,"U1097","19-03-17",15,"dosa,Chicken 65, , Aaloo paratha,Mutton Biryani,Cham-Cham",1628,"cash","Baner","Pune","Maharashtra","India",411116,5,4,4
+"194",194,"U1108","18-01-17",21,"dosa,chicken Kabab,Beef Vindaloo,Tandoor Roti, ,Kulfi",1360,"cash","Aundh","Pune","Maharashtra","India",411637,1,5,1
+"195",195,"U1034","02-07-17",14,"wada,Veg Kabab,Dal Makhani,Tandoor Roti,Mutton Biryani,Kulfi",691,"cash","Shivajinagar","Pune","Maharashtra","India",411483,5,5,3
+"196",196,"U1095","15-05-17",9,"wada,chicken Kabab,Alu Matar, Aaloo paratha,Chicken Biriyani,Ice Cream",234,"cash","Kharadi","Pune","Maharashtra","India",411159,1,5,5
+"197",197,"U1007","08-03-17",9,"paratha,Veg Kabab,Dal Makhani, ,Mutton Biryani,Carrot Halwa",1240,"cash","Swargate","Pune","Maharashtra","India",411130,4,3,5
+"198",198,"U1091","03-01-17",12,"wada,Chicken 65,Chana Masala, ,Chicken Biriyani,Kulfi",669,"cash","Koregaon Park","Pune","Maharashtra","India",411154,4,1,4
+"199",199,"U1019","08-06-17",12,"wada,Chaat Papri,Chana Masala,Chapati,Veg Biryani,Ice Cream",1075,"cash","Bund Garden","Pune","Maharashtra","India",411711,3,1,3
+"200",200,"U1061","23-05-17",13,"paratha,Chili Chicken, , ,Pulao,Barfi",674,"cash","Bibwewadi","Pune","Maharashtra","India",411774,5,2,4
+"201",201,"U1112","29-09-17",10,"idli,Veg Kabab, , Aaloo paratha,Mutton Biryani,Carrot Halwa",1189,"cash","Parvati Hill","Pune","Maharashtra","India",411866,2,5,2
+"202",202,"U1096","15-01-17",7,"Dhokla,Veg Kabab, ,Chapati, ,Ice Cream",677,"cash","Wagholi","Pune","Maharashtra","India",411518,5,4,1
+"203",203,"U1097","07-08-17",13," , ,Chana Masala, ,Mutton Biryani,Gulab Jamun",548,"cash","Deccan","Pune","Maharashtra","India",411084,2,5,1
+"204",204,"U1108","13-12-17",19,"paratha,chicken Kabab,Alu Gobi, Aaloo paratha,Veg Biryani,Kulfi",909,"cash","Kharadi","Pune","Maharashtra","India",411598,4,4,3
+"205",205,"U1034","25-08-17",17,"idli,chicken Kabab,Alu Gobi, ,Mutton Biryani,Kulfi",379,"cash","Hadapsar","Pune","Maharashtra","India",411756,2,2,5
+"206",206,"U1095","17-04-17",12,"paratha,Chicken 65,Butter Chicken,Butter Naan, ,Gulab Jamun",1999,"cash","Yerwada","Pune","Maharashtra","India",411396,3,4,1
+"207",207,"U1007","03-05-17",10,"wada,Chicken 65,Chana Masala, Aaloo paratha,Chicken Biriyani,Kulfi",143,"cash","Dattawadi","Pune","Maharashtra","India",411132,4,1,4
+"208",208,"U1091","25-08-17",12," ,Chili Chicken,Beef Vindaloo,Butter Naan,Steam Rice,Barfi",997,"cash","Shivajinagar","Pune","Maharashtra","India",411857,5,2,3
+"209",209,"U1019","13-05-17",16,"wada,Veg Kabab,Chana Masala, Aaloo paratha,Pulao,Ice Cream",1675,"cash","Hadapsar","Pune","Maharashtra","India",411807,2,1,2
+"210",210,"U1061","07-05-17",21,"paratha,Masala Papad,Alu Matar,Chapati,Steam Rice,Gulab Jamun",142,"cash","Chandan Nagar","Pune","Maharashtra","India",411053,1,4,5
+"211",211,"U1112","23-06-17",22,"dosa,Masala Papad,Alu Matar, Aaloo paratha,Pulao,Carrot Halwa",387,"cash","Deccan","Pune","Maharashtra","India",411852,1,2,1
+"212",212,"U1096","20-04-17",20,"dosa, ,Chicken Tikka,Chapati,Pulao,Cham-Cham",1984,"cash","Dattawadi","Pune","Maharashtra","India",411956,1,2,4
+"213",213,"U1097","01-04-17",20," ,Chicken 65, , Aaloo paratha,Veg Biryani,Cham-Cham",719,"cash","Ganeshkhind","Pune","Maharashtra","India",411199,5,3,4
+"214",214,"U1108","26-07-17",11,"dosa,Chili Chicken, ,Chapati,Pulao,Kulfi",1912,"cash","Koregaon Park","Pune","Maharashtra","India",411206,2,1,5
+"215",215,"U1034","07-06-17",18,"dosa,Chaat Papri,Dal Makhani,Chapati,Steam Rice,Kheer",1514,"cash","Dattawadi","Pune","Maharashtra","India",411625,1,5,2
+"216",216,"U1095","06-11-17",19,"paratha,Veg Kabab, ,Butter Naan,Chicken Biriyani,Carrot Halwa",1634,"cash","Aundh","Pune","Maharashtra","India",411950,5,5,1
+"217",217,"U1007","20-01-17",15,"idli,Masala Papad,Beef Vindaloo, Aaloo paratha,Veg Biryani,Cham-Cham",651,"cash","Bavdhan","Pune","Maharashtra","India",411210,2,4,1
+"218",218,"U1091","14-08-17",19,"wada, ,Chana Masala,Chapati,Steam Rice,Kheer",583,"cash","Deccan","Pune","Maharashtra","India",411910,1,2,1
+"219",219,"U1019","02-02-17",20,"Dhokla,chicken Kabab,Alu Matar, ,Steam Rice,Kulfi",235,"cash","Koregaon Park","Pune","Maharashtra","India",411408,3,5,1
+"220",220,"U1061","10-02-17",19,"Dhokla,Masala Papad,Beef Vindaloo, Aaloo paratha,Steam Rice,Carrot Halwa",1796,"cash","Katraj","Pune","Maharashtra","India",411256,1,3,3
+"221",221,"U1112","15-10-17",19,"paratha,Masala Papad,Butter Chicken,Chapati, ,Carrot Halwa",944,"cash","Shivajinagar","Pune","Maharashtra","India",411945,3,4,2
+"222",222,"U1096","20-09-17",14," ,Chili Chicken,Beef Vindaloo,Butter Naan,Chicken Biriyani, ",1336,"cash","Bibwewadi","Pune","Maharashtra","India",411661,5,2,1
+"223",223,"U1097","21-03-17",23,"idli,Veg Kabab, ,Butter Naan,Veg Biryani, ",1180,"cash","Ganeshkhind","Pune","Maharashtra","India",411884,1,3,5
+"224",224,"U1108","05-12-17",15,"dosa,Chaat Papri,Beef Vindaloo, ,Pulao,Kheer",824,"cash","Pashan","Pune","Maharashtra","India",411427,5,4,1
+"225",225,"U1034","22-01-17",13,"wada,Chaat Papri,Dal Makhani, ,Pulao,Kheer",161,"cash","Baner","Pune","Maharashtra","India",411291,2,5,2
+"226",226,"U1095","01-11-17",9,"idli,Chaat Papri,Paneer Butter Masala, ,Chicken Biriyani,Cham-Cham",303,"cash","Kharadi","Pune","Maharashtra","India",411664,3,2,1
+"227",227,"U1007","23-03-17",21,"idli,chicken Kabab,Chicken Tikka, Aaloo paratha,Mutton Biryani, ",1893,"cash","Khadki","Pune","Maharashtra","India",411294,4,5,1
+"228",228,"U1091","04-05-17",17,"paratha,chicken Kabab,Dal Makhani,Butter Naan,Chicken Biriyani,Kulfi",1344,"cash","Handewadi","Pune","Maharashtra","India",411650,1,4,4
+"229",229,"U1019","28-09-17",11,"Dhokla,chicken Kabab,Dal Makhani, ,Steam Rice,Ice Cream",513,"cash","Baner","Pune","Maharashtra","India",411252,3,5,5
+"230",230,"U1061","30-10-17",23," ,chicken Kabab,Chana Masala,Chapati,Chicken Biriyani,Kulfi",1712,"cash","Wadgaon Sheri","Pune","Maharashtra","India",411679,4,3,4
+"231",231,"U1112","12-03-17",13,"paratha, ,Chicken Tikka,Butter Naan,Pulao,Kheer",1115,"cash","Kothrud","Pune","Maharashtra","India",411411,2,3,3
+"232",232,"U1096","11-01-17",14,"Dhokla,chicken Kabab,Chana Masala,Butter Naan,Steam Rice,Ice Cream",1051,"cash","Khadki","Pune","Maharashtra","India",411130,1,1,1
+"233",233,"U1097","25-06-17",17,"idli, ,Butter Chicken,Butter Naan, ,Gulab Jamun",936,"cash","Wadgaon Sheri","Pune","Maharashtra","India",411404,1,3,1
+"234",234,"U1108","27-04-17",12,"paratha,Chili Chicken,Chana Masala, ,Steam Rice,Carrot Halwa",1392,"cash","Ganeshkhind","Pune","Maharashtra","India",411218,4,3,5
+"235",235,"U1034","09-12-17",22,"Dhokla,chicken Kabab,Chana Masala, , ,Kheer",879,"cash","Dattawadi","Pune","Maharashtra","India",411706,5,2,1
+"236",236,"U1095","07-11-17",13,"idli, ,Chicken Tikka, Aaloo paratha,Pulao,Barfi",909,"cash","Khadki","Pune","Maharashtra","India",411217,4,2,2
+"237",237,"U1007","03-11-17",12,"paratha,Chili Chicken,Dal Makhani, Aaloo paratha, ,Ice Cream",1671,"cash","Katraj","Pune","Maharashtra","India",411401,1,2,1
+"238",238,"U1091","28-06-17",8,"wada,Chicken 65,Dal Makhani,Butter Naan,Steam Rice, ",1068,"cash","Wadgaon Sheri","Pune","Maharashtra","India",411246,2,2,5
+"239",239,"U1019","01-09-17",21,"idli,Veg Kabab,Paneer Butter Masala,Chapati,Chicken Biriyani,Cham-Cham",1402,"cash","Hadapsar","Pune","Maharashtra","India",411341,4,4,5
+"240",240,"U1061","12-05-17",8,"Dhokla,Chaat Papri,Alu Gobi,Chapati,Chicken Biriyani,Cham-Cham",1306,"cash","Koregaon Park","Pune","Maharashtra","India",411456,5,4,4
+"241",241,"U1112","20-10-17",14,"idli,Masala Papad,Alu Gobi,Tandoor Roti,Mutton Biryani, ",1846,"cash","Shivajinagar","Pune","Maharashtra","India",411995,2,2,4
+"242",242,"U1096","15-08-17",12,"dosa,Masala Papad,Beef Vindaloo, Aaloo paratha,Chicken Biriyani, ",1205,"cash","Kharadi","Pune","Maharashtra","India",411668,1,4,4
+"243",243,"U1097","25-09-17",19,"paratha,Chaat Papri,Chicken Tikka,Chapati,Steam Rice,Gulab Jamun",1114,"cash","Katraj","Pune","Maharashtra","India",411973,1,1,2
+"244",244,"U1108","10-01-17",11,"idli,Chili Chicken,Dal Makhani,Butter Naan,Steam Rice,Barfi",461,"VISA","Dattawadi","Pune","Maharashtra","India",411954,4,3,1
+"245",245,"U1034","13-12-17",15," ,Chicken 65,Paneer Butter Masala,Butter Naan,Pulao,Carrot Halwa",1750,"VISA","Koregaon Park","Pune","Maharashtra","India",411583,1,1,3
+"246",246,"U1095","02-01-17",22," ,Masala Papad,Dal Makhani,Butter Naan,Chicken Biriyani,Kheer",663,"VISA","Wadgaon Sheri","Pune","Maharashtra","India",411166,3,5,2
+"247",247,"U1007","12-02-17",8,"paratha, ,Butter Chicken,Tandoor Roti,Mutton Biryani,Cham-Cham",1632,"VISA","Koregaon Park","Pune","Maharashtra","India",411053,3,5,1
+"248",248,"U1091","26-02-17",18,"dosa,Chicken 65,Beef Vindaloo, Aaloo paratha,Pulao,Kulfi",1098,"VISA","Wadgaon Sheri","Pune","Maharashtra","India",411170,4,3,5
+"249",249,"U1019","12-10-17",17,"dosa,Masala Papad,Butter Chicken,Chapati,Pulao,Gulab Jamun",910,"VISA","Kothrud","Pune","Maharashtra","India",411079,1,2,2
+"250",250,"U1061","12-04-17",8,"idli,Veg Kabab,Chicken Tikka, , ,Cham-Cham",1878,"VISA","Hadapsar","Pune","Maharashtra","India",411236,4,2,1
+"251",251,"U1112","23-05-17",18,"paratha, , ,Tandoor Roti,Chicken Biriyani,Ice Cream",1090,"VISA","Bibwewadi","Pune","Maharashtra","India",411570,4,5,5
+"252",252,"U1096","20-10-17",21,"paratha,Veg Kabab,Chicken Tikka, Aaloo paratha,Veg Biryani, ",513,"VISA","Wagholi","Pune","Maharashtra","India",411539,5,1,5
+"253",253,"U1097","24-06-17",12,"paratha,Chili Chicken,Butter Chicken, ,Mutton Biryani,Kulfi",1080,"VISA","Swargate","Pune","Maharashtra","India",411322,1,5,4
+"254",254,"U1108","18-08-17",14,"paratha,Chili Chicken,Butter Chicken,Chapati,Mutton Biryani,Kheer",1537,"VISA","Ganeshkhind","Pune","Maharashtra","India",411754,5,2,4
+"255",255,"U1034","26-12-17",22,"dosa, ,Chicken Tikka,Tandoor Roti,Pulao,Kheer",835,"VISA","Ganeshkhind","Pune","Maharashtra","India",411697,3,5,2
+"256",256,"U1095","27-09-17",14,"wada,Chaat Papri,Beef Vindaloo,Chapati, ,Ice Cream",1636,"VISA","Deccan","Pune","Maharashtra","India",411617,5,4,2
+"257",257,"U1007","22-03-17",15,"dosa,chicken Kabab,Dal Makhani,Chapati, ,Cham-Cham",1242,"VISA","Deccan","Pune","Maharashtra","India",411283,1,2,5
+"258",258,"U1091","26-10-17",20," ,Chili Chicken,Paneer Butter Masala,Butter Naan,Steam Rice,Kulfi",1435,"VISA","Kothrud","Pune","Maharashtra","India",411585,1,3,4
+"259",259,"U1019","11-08-17",18,"dosa, ,Beef Vindaloo, Aaloo paratha,Veg Biryani,Kheer",285,"VISA","Baner","Pune","Maharashtra","India",411394,1,1,3
+"260",260,"U1061","23-12-17",20,"dosa,Masala Papad,Chana Masala,Butter Naan,Veg Biryani,Kulfi",665,"VISA","Anandnagar","Pune","Maharashtra","India",411505,5,2,2
+"261",261,"U1112","29-01-17",9,"Dhokla,Chili Chicken,Chicken Tikka,Tandoor Roti,Pulao,Ice Cream",921,"VISA","Baner","Pune","Maharashtra","India",411255,3,5,2
+"262",262,"U1096","10-12-17",11,"wada,Chili Chicken,Paneer Butter Masala, Aaloo paratha,Chicken Biriyani,Cham-Cham",649,"VISA","Yerwada","Pune","Maharashtra","India",411783,2,4,3
+"263",263,"U1097","02-11-17",23,"paratha,Chicken 65,Paneer Butter Masala, Aaloo paratha,Chicken Biriyani,Kulfi",912,"VISA","Bibwewadi","Pune","Maharashtra","India",411872,4,3,2
+"264",264,"U1108","06-06-17",11,"wada,Masala Papad,Alu Gobi,Tandoor Roti,Veg Biryani,Carrot Halwa",1726,"VISA","Swargate","Pune","Maharashtra","India",411561,5,3,4
+"265",265,"U1034","22-03-17",8,"Dhokla,Veg Kabab,Chana Masala, , ,Cham-Cham",1017,"VISA","Katraj","Pune","Maharashtra","India",411136,3,5,3
+"266",266,"U1095","08-10-17",20,"Dhokla, ,Chicken Tikka, Aaloo paratha, ,Gulab Jamun",721,"VISA","Parvati Hill","Pune","Maharashtra","India",411393,2,1,1
+"267",267,"U1007","06-05-17",23,"wada,chicken Kabab,Chicken Tikka, Aaloo paratha,Veg Biryani,Barfi",1399,"VISA","Dattawadi","Pune","Maharashtra","India",411118,2,3,4
+"268",268,"U1091","02-09-17",23,"Dhokla,Veg Kabab,Butter Chicken, Aaloo paratha, ,Carrot Halwa",1756,"VISA","Hadapsar","Pune","Maharashtra","India",411823,4,1,4
+"269",269,"U1019","31-12-17",17," ,Chicken 65,Dal Makhani, Aaloo paratha,Mutton Biryani,Barfi",1276,"VISA","Hadapsar","Pune","Maharashtra","India",411702,2,1,3
+"270",270,"U1061","04-02-17",15,"paratha,Masala Papad,Dal Makhani,Tandoor Roti,Chicken Biriyani,Ice Cream",1055,"VISA","Yerwada","Pune","Maharashtra","India",411344,3,4,2
+"271",271,"U1112","22-01-17",17,"wada,Chicken 65,Alu Gobi, ,Mutton Biryani, ",291,"VISA","Pashan","Pune","Maharashtra","India",411239,3,3,1
+"272",272,"U1096","17-12-17",13,"idli,Chili Chicken,Alu Matar, Aaloo paratha,Mutton Biryani,Kulfi",347,"VISA","Bibwewadi","Pune","Maharashtra","India",411353,2,1,1
+"273",273,"U1097","11-08-17",14," ,chicken Kabab,Chana Masala, ,Steam Rice, ",226,"VISA","Anandnagar","Pune","Maharashtra","India",411613,3,4,4
+"274",274,"U1108","17-09-17",23," ,Chili Chicken,Butter Chicken, Aaloo paratha,Pulao,Kheer",1739,"VISA","Katraj","Pune","Maharashtra","India",411304,3,2,1
+"275",275,"U1034","09-08-17",19,"dosa, ,Chicken Tikka, Aaloo paratha,Mutton Biryani,Cham-Cham",1879,"VISA","Bibwewadi","Pune","Maharashtra","India",411945,1,1,3
+"276",276,"U1095","26-07-17",18," ,Veg Kabab,Paneer Butter Masala,Butter Naan,Steam Rice,Kheer",337,"VISA","Handewadi","Pune","Maharashtra","India",411721,3,5,1
+"277",277,"U1007","29-03-17",9,"idli,Chicken 65,Chicken Tikka, Aaloo paratha,Mutton Biryani,Gulab Jamun",1608,"VISA","Bavdhan","Pune","Maharashtra","India",411222,2,3,1
+"278",278,"U1091","27-06-17",17,"paratha,Chili Chicken,Alu Matar,Chapati, ,Barfi",1038,"VISA","Chandan Nagar","Pune","Maharashtra","India",411383,2,4,4
+"279",279,"U1019","13-11-17",7,"wada,Chicken 65, , Aaloo paratha,Pulao,Kheer",1809,"VISA","Baner","Pune","Maharashtra","India",411477,5,5,3
+"280",280,"U1061","31-08-17",16,"paratha,Chili Chicken,Paneer Butter Masala, ,Pulao,Cham-Cham",1179,"VISA","Khadki","Pune","Maharashtra","India",411044,3,5,1
+"281",281,"U1112","06-08-17",12,"dosa,Masala Papad,Alu Matar, Aaloo paratha, ,Carrot Halwa",311,"VISA","Balewadi","Pune","Maharashtra","India",411390,3,3,4
+"282",282,"U1096","23-08-17",10,"Dhokla,Masala Papad,Alu Matar,Chapati,Pulao,Ice Cream",541,"VISA","Handewadi","Pune","Maharashtra","India",411652,5,3,3
+"283",283,"U1097","24-08-17",15,"idli,Chicken 65,Butter Chicken,Butter Naan,Steam Rice,Kheer",867,"VISA","Yerwada","Pune","Maharashtra","India",411094,4,3,4
+"284",284,"U1108","18-03-17",12,"dosa,Chaat Papri,Beef Vindaloo,Butter Naan,Veg Biryani,Cham-Cham",234,"VISA","Yerwada","Pune","Maharashtra","India",411824,4,3,4
+"285",285,"U1034","30-03-17",10,"Dhokla,Veg Kabab, , Aaloo paratha,Mutton Biryani,Ice Cream",376,"VISA","Anandnagar","Pune","Maharashtra","India",411333,2,2,4
+"286",286,"U1095","04-06-17",14,"Dhokla,Masala Papad,Butter Chicken, ,Chicken Biriyani,Kheer",1331,"VISA","Deccan","Pune","Maharashtra","India",411170,1,2,4
+"287",287,"U1007","15-07-17",7,"wada,Chili Chicken, ,Butter Naan,Veg Biryani,Kheer",1570,"VISA","Bavdhan","Pune","Maharashtra","India",411513,5,3,3
+"288",288,"U1091","17-05-17",10,"Dhokla,Masala Papad,Chicken Tikka,Tandoor Roti,Steam Rice, ",1459,"VISA","Shivajinagar","Pune","Maharashtra","India",411015,1,3,2
+"289",289,"U1019","06-01-17",10,"idli,Chili Chicken,Butter Chicken,Tandoor Roti,Pulao,Barfi",421,"VISA","Swargate","Pune","Maharashtra","India",411449,1,2,1
+"290",290,"U1061","07-01-17",11," ,Chaat Papri,Alu Matar, ,Mutton Biryani,Gulab Jamun",159,"VISA","Kharadi","Pune","Maharashtra","India",411726,3,4,4
+"291",291,"U1112","30-10-17",8,"paratha,Veg Kabab,Chana Masala, Aaloo paratha,Chicken Biriyani,Kulfi",296,"VISA","Deccan","Pune","Maharashtra","India",411813,4,5,5
+"292",292,"U1096","18-09-17",23,"paratha,chicken Kabab,Chicken Tikka,Tandoor Roti,Chicken Biriyani,Kulfi",588,"VISA","Baner","Pune","Maharashtra","India",411862,2,4,5
+"293",293,"U1097","19-03-17",21,"paratha,Veg Kabab,Dal Makhani,Tandoor Roti,Pulao,Kulfi",1882,"VISA","Deccan","Pune","Maharashtra","India",411303,4,3,3
+"294",294,"U1108","18-01-17",12,"dosa,Chili Chicken,Paneer Butter Masala,Tandoor Roti,Pulao,Gulab Jamun",554,"VISA","Khadki","Pune","Maharashtra","India",411474,2,4,1
+"295",295,"U1034","02-07-17",20," ,Chili Chicken,Dal Makhani, ,Veg Biryani,Carrot Halwa",531,"VISA","Handewadi","Pune","Maharashtra","India",411953,3,5,3
+"296",296,"U1095","15-05-17",20,"dosa,Chaat Papri,Dal Makhani,Tandoor Roti,Chicken Biriyani,Kheer",549,"VISA","Kharadi","Pune","Maharashtra","India",411556,1,2,2
+"297",297,"U1007","08-03-17",23,"dosa,chicken Kabab,Chana Masala,Butter Naan,Mutton Biryani, ",298,"VISA","Katraj","Pune","Maharashtra","India",411588,4,5,5
+"298",298,"U1091","03-01-17",10,"wada,chicken Kabab, , Aaloo paratha,Steam Rice,Gulab Jamun",951,"VISA","Katraj","Pune","Maharashtra","India",411747,2,2,4
+"299",299,"U1019","08-06-17",15,"idli,Chaat Papri,Butter Chicken,Chapati,Veg Biryani, ",807,"VISA","Katraj","Pune","Maharashtra","India",411821,3,3,2
+"300",300,"U1061","23-05-17",11,"Dhokla,Masala Papad,Alu Gobi,Chapati,Pulao,Barfi",933,"VISA","Swargate","Pune","Maharashtra","India",411235,3,4,1
+"301",301,"U1112","29-09-17",7,"paratha,chicken Kabab,Alu Matar, Aaloo paratha, ,Carrot Halwa",235,"VISA","Bund Garden","Pune","Maharashtra","India",411677,5,4,3
+"302",302,"U1096","15-01-17",17,"paratha,Masala Papad,Butter Chicken,Butter Naan,Pulao,Kulfi",436,"VISA","Katraj","Pune","Maharashtra","India",411548,5,2,2
+"303",303,"U1097","07-08-17",15,"paratha,Chaat Papri,Dal Makhani,Butter Naan, ,Carrot Halwa",106,"VISA","Chandan Nagar","Pune","Maharashtra","India",411518,3,4,2
+"304",304,"U1108","13-12-17",11,"Dhokla,chicken Kabab,Chicken Tikka,Chapati,Chicken Biriyani,Kheer",769,"MasterCard-Eurocard","Bibwewadi","Pune","Maharashtra","India",411288,4,2,1
+"305",305,"U1034","25-08-17",18,"idli,Veg Kabab,Butter Chicken, ,Steam Rice,Kheer",1121,"MasterCard-Eurocard","Kharadi","Pune","Maharashtra","India",411187,1,2,1
+"306",306,"U1095","17-04-17",23," ,Chaat Papri,Beef Vindaloo,Tandoor Roti,Chicken Biriyani,Carrot Halwa",1965,"MasterCard-Eurocard","Parvati Hill","Pune","Maharashtra","India",411480,3,2,1
+"307",307,"U1007","03-05-17",20,"dosa, ,Dal Makhani,Tandoor Roti,Pulao,Kulfi",1449,"MasterCard-Eurocard","Balewadi","Pune","Maharashtra","India",411824,5,2,4
+"308",308,"U1091","25-08-17",18," ,Masala Papad,Chana Masala, ,Steam Rice,Cham-Cham",520,"MasterCard-Eurocard","Wagholi","Pune","Maharashtra","India",411675,4,4,4
+"309",309,"U1019","13-05-17",17,"dosa,Chaat Papri,Paneer Butter Masala,Tandoor Roti, ,Kheer",1207,"MasterCard-Eurocard","Aundh","Pune","Maharashtra","India",411961,5,3,5
+"310",310,"U1061","07-05-17",9," ,Chicken 65,Dal Makhani,Butter Naan,Mutton Biryani,Gulab Jamun",533,"MasterCard-Eurocard","Ganeshkhind","Pune","Maharashtra","India",411241,2,3,3
+"311",311,"U1112","23-06-17",16,"idli,Chili Chicken,Alu Gobi,Tandoor Roti,Veg Biryani,Ice Cream",165,"MasterCard-Eurocard","Wagholi","Pune","Maharashtra","India",411725,5,5,1
+"312",312,"U1096","20-04-17",12,"paratha,Chaat Papri,Butter Chicken, ,Veg Biryani, ",811,"MasterCard-Eurocard","Chandan Nagar","Pune","Maharashtra","India",411580,3,2,4
+"313",313,"U1097","01-04-17",20,"dosa,Masala Papad,Paneer Butter Masala,Tandoor Roti,Mutton Biryani,Barfi",1032,"MasterCard-Eurocard","Wadgaon Sheri","Pune","Maharashtra","India",411620,2,2,1
+"314",314,"U1108","26-07-17",17,"dosa,Chili Chicken, , , ,Barfi",162,"MasterCard-Eurocard","Handewadi","Pune","Maharashtra","India",411747,2,1,5
+"315",315,"U1034","07-06-17",7,"wada,Veg Kabab,Beef Vindaloo, Aaloo paratha,Mutton Biryani,Barfi",1064,"MasterCard-Eurocard","Deccan","Pune","Maharashtra","India",411716,1,2,4
+"316",316,"U1095","06-11-17",22,"paratha,chicken Kabab,Alu Gobi,Tandoor Roti,Steam Rice,Cham-Cham",444,"MasterCard-Eurocard","Hadapsar","Pune","Maharashtra","India",411293,4,3,2
+"317",317,"U1007","20-01-17",10,"paratha,Chaat Papri,Chana Masala, ,Mutton Biryani,Carrot Halwa",1513,"MasterCard-Eurocard","Chandan Nagar","Pune","Maharashtra","India",411829,3,2,3
+"318",318,"U1091","14-08-17",8,"idli,Veg Kabab,Butter Chicken, ,Mutton Biryani,Kulfi",583,"MasterCard-Eurocard","Chandan Nagar","Pune","Maharashtra","India",411765,1,4,4
+"319",319,"U1019","02-02-17",20,"paratha, ,Alu Gobi,Chapati,Chicken Biriyani,Carrot Halwa",1299,"MasterCard-Eurocard","Chandan Nagar","Pune","Maharashtra","India",411306,3,1,4
+"320",320,"U1061","10-02-17",17,"paratha,Chili Chicken,Chana Masala, , ,Ice Cream",597,"MasterCard-Eurocard","Yerwada","Pune","Maharashtra","India",411910,5,2,5
+"321",321,"U1112","15-10-17",14,"dosa,Veg Kabab,Dal Makhani, Aaloo paratha,Pulao,Barfi",468,"MasterCard-Eurocard","Aundh","Pune","Maharashtra","India",411879,1,1,4
+"322",322,"U1096","20-09-17",23,"paratha,Veg Kabab,Paneer Butter Masala,Chapati,Veg Biryani,Cham-Cham",611,"MasterCard-Eurocard","Wadgaon Sheri","Pune","Maharashtra","India",411416,2,3,5
+"323",323,"U1097","21-03-17",10,"idli, ,Butter Chicken, ,Pulao, ",1640,"MasterCard-Eurocard","Dattawadi","Pune","Maharashtra","India",411286,4,3,3
+"324",324,"U1108","05-12-17",20,"wada,Veg Kabab,Alu Matar,Tandoor Roti,Pulao,Ice Cream",1919,"MasterCard-Eurocard","Hadapsar","Pune","Maharashtra","India",411196,5,3,1
+"325",325,"U1034","22-01-17",8,"wada,Chicken 65,Butter Chicken,Chapati,Steam Rice,Ice Cream",1484,"MasterCard-Eurocard","Bavdhan","Pune","Maharashtra","India",411328,5,4,5
+"326",326,"U1095","01-11-17",8,"wada,Masala Papad, ,Butter Naan,Steam Rice,Ice Cream",1454,"MasterCard-Eurocard","Baner","Pune","Maharashtra","India",411951,4,2,1
+"327",327,"U1007","23-03-17",12,"dosa,Chaat Papri,Dal Makhani,Chapati,Mutton Biryani,Carrot Halwa",1546,"MasterCard-Eurocard","Swargate","Pune","Maharashtra","India",411202,1,2,1
+"328",328,"U1091","04-05-17",11,"dosa,Chili Chicken,Paneer Butter Masala,Butter Naan,Chicken Biriyani,Carrot Halwa",1683,"MasterCard-Eurocard","Wagholi","Pune","Maharashtra","India",411808,5,1,1
+"329",329,"U1019","28-09-17",8,"dosa,Chili Chicken,Butter Chicken, , ,Carrot Halwa",1225,"MasterCard-Eurocard","Anandnagar","Pune","Maharashtra","India",411614,4,4,2
+"330",330,"U1061","30-10-17",7,"paratha,Masala Papad,Alu Gobi,Butter Naan,Veg Biryani,Gulab Jamun",1483,"MasterCard-Eurocard","Wadgaon Sheri","Pune","Maharashtra","India",411781,4,3,5
+"331",331,"U1112","12-03-17",22,"idli,Chicken 65,Paneer Butter Masala,Butter Naan,Steam Rice, ",351,"MasterCard-Eurocard","Aundh","Pune","Maharashtra","India",411987,5,4,1
+"332",332,"U1096","11-01-17",11," ,chicken Kabab,Beef Vindaloo,Chapati,Pulao,Ice Cream",1108,"MasterCard-Eurocard","Hadapsar","Pune","Maharashtra","India",411788,3,1,1
+"333",333,"U1097","25-06-17",23," ,Masala Papad,Chicken Tikka,Tandoor Roti,Chicken Biriyani,Kheer",968,"MasterCard-Eurocard","Pashan","Pune","Maharashtra","India",411530,5,2,4
+"334",334,"U1108","27-04-17",18,"idli,chicken Kabab,Beef Vindaloo,Chapati,Chicken Biriyani,Cham-Cham",1420,"MasterCard-Eurocard","Aundh","Pune","Maharashtra","India",411232,1,4,3
+"335",335,"U1034","09-12-17",23,"wada,Veg Kabab,Chana Masala, Aaloo paratha, ,Kulfi",1096,"MasterCard-Eurocard","Yerwada","Pune","Maharashtra","India",411826,1,4,2
+"336",336,"U1095","07-11-17",15,"Dhokla,Chaat Papri,Butter Chicken,Chapati, ,Kulfi",1247,"MasterCard-Eurocard","Balewadi","Pune","Maharashtra","India",411857,3,5,1
+"337",337,"U1007","03-11-17",23,"wada,Chili Chicken,Alu Matar,Tandoor Roti,Veg Biryani,Cham-Cham",183,"MasterCard-Eurocard","Chandan Nagar","Pune","Maharashtra","India",411471,1,3,4
+"338",338,"U1091","28-06-17",12,"wada, ,Beef Vindaloo,Tandoor Roti,Veg Biryani,Carrot Halwa",1765,"MasterCard-Eurocard","Koregaon Park","Pune","Maharashtra","India",411384,4,1,2
+"339",339,"U1019","01-09-17",7," ,Veg Kabab, ,Butter Naan, ,Gulab Jamun",391,"MasterCard-Eurocard","Parvati Hill","Pune","Maharashtra","India",411830,4,2,5
+"340",340,"U1061","12-05-17",22,"wada, ,Beef Vindaloo, Aaloo paratha, ,Kulfi",129,"MasterCard-Eurocard","Wadgaon Sheri","Pune","Maharashtra","India",411230,3,2,5
+"341",341,"U1112","20-10-17",22,"Dhokla, ,Alu Matar,Chapati,Steam Rice,Cham-Cham",1232,"MasterCard-Eurocard","Aundh","Pune","Maharashtra","India",411004,4,2,3
+"342",342,"U1096","15-08-17",20,"idli,Chili Chicken,Alu Matar,Tandoor Roti,Chicken Biriyani,Ice Cream",1008,"MasterCard-Eurocard","Koregaon Park","Pune","Maharashtra","India",411498,4,2,5
+"343",343,"U1097","25-09-17",12,"wada,Chicken 65,Beef Vindaloo, ,Steam Rice, ",1578,"MasterCard-Eurocard","Yerwada","Pune","Maharashtra","India",411589,5,1,5
+"344",344,"U1108","10-01-17",20,"idli,Veg Kabab,Alu Gobi,Butter Naan,Mutton Biryani,Kheer",742,"MasterCard-Eurocard","Hadapsar","Pune","Maharashtra","India",411253,2,2,2
+"345",345,"U1034","13-12-17",16,"Dhokla,Chicken 65,Alu Gobi, ,Chicken Biriyani,Kulfi",948,"MasterCard-Eurocard","Ganeshkhind","Pune","Maharashtra","India",411497,5,4,5
+"346",346,"U1095","02-01-17",21,"dosa,Chili Chicken,Chana Masala,Tandoor Roti,Veg Biryani,Gulab Jamun",401,"MasterCard-Eurocard","Bibwewadi","Pune","Maharashtra","India",411712,5,5,4
+"347",347,"U1007","12-02-17",18,"wada,Masala Papad,Alu Matar, ,Mutton Biryani,Gulab Jamun",545,"MasterCard-Eurocard","Bavdhan","Pune","Maharashtra","India",411074,2,5,1
+"348",348,"U1091","26-02-17",18,"wada,Chaat Papri,Paneer Butter Masala,Butter Naan,Pulao, ",540,"MasterCard-Eurocard","Bavdhan","Pune","Maharashtra","India",411491,3,3,4
+"349",349,"U1019","12-10-17",21," , ,Chana Masala, Aaloo paratha,Mutton Biryani,Carrot Halwa",974,"MasterCard-Eurocard","Bavdhan","Pune","Maharashtra","India",411658,2,3,1
+"350",350,"U1061","12-04-17",23,"wada,Chicken 65,Chana Masala,Tandoor Roti,Steam Rice, ",1177,"MasterCard-Eurocard","Bund Garden","Pune","Maharashtra","India",411902,4,1,3
+"351",351,"U1112","23-05-17",11,"idli,Masala Papad,Alu Gobi,Butter Naan,Chicken Biriyani,Gulab Jamun",680,"MasterCard-Eurocard","Bibwewadi","Pune","Maharashtra","India",411133,5,5,2
+"352",352,"U1096","20-10-17",7,"wada,Veg Kabab,Dal Makhani,Butter Naan,Mutton Biryani, ",1295,"MasterCard-Eurocard","Ganeshkhind","Pune","Maharashtra","India",411019,1,4,5
+"353",353,"U1097","24-06-17",9,"idli,Chaat Papri, , Aaloo paratha, ,Gulab Jamun",404,"MasterCard-Eurocard","Katraj","Pune","Maharashtra","India",411219,1,3,3
+"354",354,"U1108","18-08-17",16,"dosa,Chicken 65,Chicken Tikka,Tandoor Roti,Mutton Biryani,Barfi",1093,"MasterCard-Eurocard","Wadgaon Sheri","Pune","Maharashtra","India",411679,3,3,4
+"355",355,"U1034","26-12-17",8,"dosa,Chaat Papri,Alu Matar, ,Mutton Biryani, ",1761,"MasterCard-Eurocard","Wagholi","Pune","Maharashtra","India",411183,2,2,5
+"356",356,"U1095","27-09-17",19,"dosa,Chicken 65,Dal Makhani,Butter Naan,Veg Biryani,Kulfi",1425,"MasterCard-Eurocard","Dattawadi","Pune","Maharashtra","India",411988,3,2,5
+"357",357,"U1007","22-03-17",19,"dosa,Chili Chicken,Paneer Butter Masala,Chapati,Pulao,Barfi",882,"MasterCard-Eurocard","Bavdhan","Pune","Maharashtra","India",411072,3,1,1
+"358",358,"U1091","26-10-17",23,"wada,chicken Kabab,Alu Gobi, Aaloo paratha,Mutton Biryani,Carrot Halwa",1586,"MasterCard-Eurocard","Ganeshkhind","Pune","Maharashtra","India",411994,5,1,5
+"359",359,"U1019","11-08-17",15,"Dhokla,chicken Kabab,Dal Makhani,Butter Naan,Steam Rice,Kheer",1107,"MasterCard-Eurocard","Ganeshkhind","Pune","Maharashtra","India",411258,2,3,4
+"360",360,"U1061","23-12-17",12," ,Veg Kabab,Alu Gobi, ,Pulao,Kheer",112,"MasterCard-Eurocard","Ganeshkhind","Pune","Maharashtra","India",411594,5,4,1
+"361",361,"U1112","29-01-17",7,"paratha,Chicken 65,Paneer Butter Masala,Butter Naan,Veg Biryani,Barfi",1027,"MasterCard-Eurocard","Katraj","Pune","Maharashtra","India",411278,3,3,5
+"362",362,"U1096","10-12-17",23," ,Masala Papad,Butter Chicken,Butter Naan,Steam Rice,Barfi",1373,"MasterCard-Eurocard","Dattawadi","Pune","Maharashtra","India",411566,3,2,2
+"363",363,"U1097","02-11-17",20,"wada,Masala Papad,Chana Masala, ,Steam Rice,Cham-Cham",999,"MasterCard-Eurocard","Anandnagar","Pune","Maharashtra","India",411717,1,5,1
+"364",364,"U1077","06-06-17",20,"wada, ,Beef Vindaloo,Chapati, ,Kulfi",748,"cash","Bibwewadi","Pune","Maharashtra","India",411974,2,2,5
+"365",365,"U1108","22-03-17",14,"wada,Chaat Papri,Alu Gobi,Tandoor Roti, , ",950,"cash","Balewadi","Pune","Maharashtra","India",411306,1,3,2
+"366",366,"U1081","08-10-17",13,"paratha,chicken Kabab,Beef Vindaloo, Aaloo paratha,Mutton Biryani,Ice Cream",1024,"cash","Deccan","Pune","Maharashtra","India",411084,4,3,3
+"367",367,"U1056","06-05-17",21,"paratha,Veg Kabab,Alu Matar, Aaloo paratha,Chicken Biriyani,Gulab Jamun",1658,"cash","Baner","Pune","Maharashtra","India",411205,4,2,3
+"368",368,"U1134","02-09-17",16,"dosa,Veg Kabab, ,Chapati, ,Cham-Cham",1144,"cash","Katraj","Pune","Maharashtra","India",411933,1,3,3
+"369",369,"U1116","31-12-17",11,"idli,Veg Kabab,Paneer Butter Masala,Butter Naan,Steam Rice,Kulfi",132,"cash","Wadgaon Sheri","Pune","Maharashtra","India",411684,4,2,2
+"370",370,"U1132","04-02-17",18,"dosa, ,Paneer Butter Masala, , ,Ice Cream",1574,"cash","Swargate","Pune","Maharashtra","India",411796,4,3,2
+"371",371,"U1120","22-01-17",22,"idli,Masala Papad,Paneer Butter Masala,Tandoor Roti,Mutton Biryani,Barfi",1514,"cash","Handewadi","Pune","Maharashtra","India",411065,2,2,5
+"372",372,"U1036","17-12-17",13,"idli,Veg Kabab,Alu Matar,Butter Naan,Mutton Biryani,Cham-Cham",1241,"cash","Hadapsar","Pune","Maharashtra","India",411151,2,4,1
+"373",373,"U1084","11-08-17",20,"idli,Masala Papad,Beef Vindaloo,Tandoor Roti,Veg Biryani,Gulab Jamun",406,"cash","Chandan Nagar","Pune","Maharashtra","India",411261,1,2,2
+"374",374,"U1113","17-09-17",19,"Dhokla,Masala Papad,Chana Masala, Aaloo paratha,Mutton Biryani, ",1046,"cash","Aundh","Pune","Maharashtra","India",411123,4,5,4
+"375",375,"U1104","09-08-17",22,"paratha,Masala Papad,Paneer Butter Masala,Butter Naan,Pulao,Gulab Jamun",808,"cash","Bibwewadi","Pune","Maharashtra","India",411645,1,1,1
+"376",376,"U1106","26-07-17",12,"dosa,Veg Kabab,Butter Chicken,Butter Naan, ,Barfi",1821,"cash","Bund Garden","Pune","Maharashtra","India",411114,1,3,3
+"377",377,"U1045","29-03-17",13," ,Chili Chicken,Dal Makhani,Butter Naan,Chicken Biriyani,Ice Cream",1648,"cash","Khadki","Pune","Maharashtra","India",411705,4,1,2
+"378",378,"U1016","27-06-17",13," ,Chicken 65,Alu Matar, ,Chicken Biriyani,Kulfi",525,"cash","Dattawadi","Pune","Maharashtra","India",411682,1,4,3
+"379",379,"U1007","13-11-17",23,"wada,chicken Kabab,Alu Gobi,Butter Naan,Steam Rice, ",1448,"cash","Anandnagar","Pune","Maharashtra","India",411596,5,5,1
+"380",380,"U1013","31-08-17",22," ,Masala Papad,Beef Vindaloo,Butter Naan, , ",952,"cash","Anandnagar","Pune","Maharashtra","India",411153,1,5,3
+"381",381,"U1001","06-08-17",13,"idli,Veg Kabab,Alu Matar, ,Pulao,Ice Cream",1208,"cash","Wagholi","Pune","Maharashtra","India",411166,4,5,4
+"382",382,"U1135","23-08-17",20,"wada,Chicken 65,Chana Masala,Chapati,Steam Rice,Carrot Halwa",1645,"cash","Chandan Nagar","Pune","Maharashtra","India",411748,4,5,3
+"383",383,"U1032","24-08-17",12,"wada,chicken Kabab,Paneer Butter Masala,Chapati,Chicken Biriyani,Barfi",304,"cash","Hadapsar","Pune","Maharashtra","India",411636,1,2,5
+"384",384,"U1062","18-03-17",23,"idli,Chicken 65,Alu Matar, Aaloo paratha,Chicken Biriyani,Cham-Cham",619,"cash","Chandan Nagar","Pune","Maharashtra","India",411136,5,3,5
+"385",385,"U1092","30-03-17",19,"paratha,Chicken 65,Dal Makhani, ,Veg Biryani,Cham-Cham",1084,"cash","Katraj","Pune","Maharashtra","India",411338,1,2,1
+"386",386,"U1109","04-06-17",11,"paratha,Masala Papad,Alu Matar,Chapati,Steam Rice,Cham-Cham",224,"cash","Aundh","Pune","Maharashtra","India",411554,1,1,5
+"387",387,"U1122","15-07-17",20,"dosa,Chili Chicken,Paneer Butter Masala, Aaloo paratha, ,Carrot Halwa",1797,"cash","Dattawadi","Pune","Maharashtra","India",411843,2,5,4
+"388",388,"U1098","17-05-17",12,"Dhokla, ,Butter Chicken,Chapati,Pulao,Kheer",1350,"cash","Balewadi","Pune","Maharashtra","India",411370,5,5,3
+"389",389,"U1033","06-01-17",23,"paratha,chicken Kabab,Chana Masala, Aaloo paratha,Chicken Biriyani,Barfi",1246,"cash","Handewadi","Pune","Maharashtra","India",411811,5,5,3
+"390",390,"U1089","07-01-17",11,"Dhokla,Veg Kabab,Chana Masala,Butter Naan,Mutton Biryani,Kulfi",1026,"cash","Koregaon Park","Pune","Maharashtra","India",411853,4,2,5
+"391",391,"U1027","30-10-17",8,"paratha,Masala Papad,Alu Gobi, ,Mutton Biryani,Barfi",1118,"cash","Swargate","Pune","Maharashtra","India",411794,3,1,2
+"392",392,"U1029","18-09-17",12,"paratha,Chili Chicken,Butter Chicken,Butter Naan,Pulao,Kulfi",1444,"cash","Hadapsar","Pune","Maharashtra","India",411469,4,3,4
+"393",393,"U1086","19-03-17",17,"dosa,Chicken 65,Alu Matar, Aaloo paratha,Steam Rice,Kulfi",1849,"cash","Handewadi","Pune","Maharashtra","India",411371,5,4,5
+"394",394,"U1137","18-01-17",20,"idli,Chaat Papri,Dal Makhani, Aaloo paratha,Steam Rice,Ice Cream",414,"cash","Kharadi","Pune","Maharashtra","India",411127,4,5,2
+"395",395,"U1046","02-07-17",18,"Dhokla,Masala Papad,Paneer Butter Masala,Butter Naan,Pulao,Cham-Cham",1054,"cash","Dattawadi","Pune","Maharashtra","India",411212,5,3,5
+"396",396,"U1090","15-05-17",9,"wada, ,Alu Matar,Butter Naan,Veg Biryani,Gulab Jamun",548,"cash","Kothrud","Pune","Maharashtra","India",411484,1,4,5
+"397",397,"U1059","08-03-17",15,"idli, ,Chana Masala, Aaloo paratha,Pulao,Ice Cream",176,"cash","Baner","Pune","Maharashtra","India",411105,3,5,4
+"398",398,"U1049","03-01-17",11,"dosa,chicken Kabab,Alu Matar, ,Pulao,Cham-Cham",1531,"cash","Handewadi","Pune","Maharashtra","India",411403,3,5,4
+"399",399,"U1002","08-06-17",15,"paratha,Chicken 65,Chana Masala,Butter Naan,Veg Biryani,Ice Cream",1393,"cash","Handewadi","Pune","Maharashtra","India",411003,2,1,3
+"400",400,"U1077","23-05-17",16,"wada,Veg Kabab,Alu Gobi,Chapati,Veg Biryani,Gulab Jamun",1223,"cash","Bund Garden","Pune","Maharashtra","India",411351,2,2,5
+"401",401,"U1108","29-09-17",14,"paratha,Chicken 65,Chana Masala, ,Chicken Biriyani,Cham-Cham",1267,"cash","Wagholi","Pune","Maharashtra","India",411206,2,4,4
+"402",402,"U1081","15-01-17",19,"idli,Chaat Papri,Dal Makhani, , ,Barfi",1228,"cash","Handewadi","Pune","Maharashtra","India",411420,3,1,4
+"403",403,"U1056","07-08-17",15,"wada,Chaat Papri,Chana Masala, Aaloo paratha, ,Carrot Halwa",1020,"cash","Ganeshkhind","Pune","Maharashtra","India",411306,1,5,4
+"404",404,"U1134","13-12-17",22,"dosa,Chicken 65,Paneer Butter Masala, Aaloo paratha,Veg Biryani,Gulab Jamun",364,"cash","Koregaon Park","Pune","Maharashtra","India",411898,3,1,2
+"405",405,"U1116","25-08-17",18,"dosa,chicken Kabab,Paneer Butter Masala,Tandoor Roti, ,Ice Cream",1840,"cash","Bavdhan","Pune","Maharashtra","India",411217,4,2,2
+"406",406,"U1132","17-04-17",16,"Dhokla,chicken Kabab,Alu Gobi, , ,Kulfi",866,"cash","Bund Garden","Pune","Maharashtra","India",411199,3,4,4
+"407",407,"U1120","03-05-17",14,"idli, ,Butter Chicken,Butter Naan, ,Carrot Halwa",559,"cash","Wagholi","Pune","Maharashtra","India",411366,2,1,4
+"408",408,"U1036","25-08-17",7," ,Masala Papad,Dal Makhani,Butter Naan,Chicken Biriyani,Carrot Halwa",1120,"cash","Chandan Nagar","Pune","Maharashtra","India",411278,4,1,4
+"409",409,"U1084","13-05-17",14,"Dhokla,Chili Chicken,Dal Makhani,Butter Naan,Steam Rice,Gulab Jamun",623,"cash","Bund Garden","Pune","Maharashtra","India",411756,1,5,3
+"410",410,"U1113","07-05-17",8,"wada,Veg Kabab, ,Tandoor Roti,Pulao,Kulfi",1959,"cash","Wagholi","Pune","Maharashtra","India",411633,1,5,5
+"411",411,"U1104","23-06-17",14,"dosa,Chili Chicken,Paneer Butter Masala,Butter Naan,Veg Biryani,Kulfi",1824,"cash","Swargate","Pune","Maharashtra","India",411855,4,3,1
+"412",412,"U1106","20-04-17",20,"wada, ,Dal Makhani,Butter Naan,Steam Rice,Kheer",1281,"cash","Pashan","Pune","Maharashtra","India",411259,2,1,5
+"413",413,"U1045","01-04-17",22,"Dhokla, ,Paneer Butter Masala,Tandoor Roti, , ",209,"cash","Deccan","Pune","Maharashtra","India",411860,5,5,2
+"414",414,"U1016","26-07-17",13,"wada, ,Butter Chicken, ,Steam Rice,Gulab Jamun",923,"cash","Bund Garden","Pune","Maharashtra","India",411458,1,2,3
+"415",415,"U1007","07-06-17",12,"Dhokla,Masala Papad,Butter Chicken,Chapati,Veg Biryani,Barfi",1500,"cash","Bund Garden","Pune","Maharashtra","India",411997,2,5,2
+"416",416,"U1013","06-11-17",10,"paratha,chicken Kabab,Alu Gobi,Chapati,Chicken Biriyani,Barfi",1502,"cash","Chandan Nagar","Pune","Maharashtra","India",411965,3,3,1
+"417",417,"U1001","20-01-17",14,"dosa,Chili Chicken,Alu Matar, ,Mutton Biryani,Cham-Cham",1213,"cash","Bavdhan","Pune","Maharashtra","India",411771,1,5,4
+"418",418,"U1135","14-08-17",21,"dosa, ,Chana Masala, Aaloo paratha,Mutton Biryani,Gulab Jamun",1741,"cash","Baner","Pune","Maharashtra","India",411788,4,4,4
+"419",419,"U1032","02-02-17",20,"paratha,Masala Papad,Chicken Tikka, ,Veg Biryani,Kulfi",1491,"cash","Bavdhan","Pune","Maharashtra","India",411872,4,3,1
+"420",420,"U1062","10-02-17",16,"idli,Chicken 65,Alu Matar,Butter Naan,Pulao,Ice Cream",1487,"cash","Wadgaon Sheri","Pune","Maharashtra","India",411682,5,2,4
+"421",421,"U1092","15-10-17",7,"Dhokla,Masala Papad,Chicken Tikka,Butter Naan,Veg Biryani,Kulfi",998,"cash","Bund Garden","Pune","Maharashtra","India",411871,1,1,3
+"422",422,"U1109","20-09-17",23,"dosa,Chaat Papri,Dal Makhani, ,Pulao,Ice Cream",644,"cash","Wadgaon Sheri","Pune","Maharashtra","India",411718,1,3,4
+"423",423,"U1122","21-03-17",18,"idli,Veg Kabab,Paneer Butter Masala,Chapati,Mutton Biryani, ",290,"cash","Kothrud","Pune","Maharashtra","India",411920,5,2,5
+"424",424,"U1098","05-12-17",14,"dosa,Veg Kabab,Paneer Butter Masala,Butter Naan,Mutton Biryani,Kheer",706,"cash","Parvati Hill","Pune","Maharashtra","India",411701,4,4,1
+"425",425,"U1033","22-01-17",23,"dosa,Chaat Papri,Paneer Butter Masala, ,Mutton Biryani,Gulab Jamun",510,"cash","Wadgaon Sheri","Pune","Maharashtra","India",411674,4,4,5
+"426",426,"U1089","01-11-17",17,"wada,Chicken 65,Butter Chicken,Chapati,Steam Rice,Barfi",1250,"cash","Anandnagar","Pune","Maharashtra","India",411736,3,3,2
+"427",427,"U1027","23-03-17",8,"Dhokla,Chaat Papri,Alu Gobi,Tandoor Roti,Veg Biryani,Cham-Cham",479,"cash","Baner","Pune","Maharashtra","India",411806,4,2,2
+"428",428,"U1029","04-05-17",17,"dosa,Masala Papad,Chicken Tikka,Tandoor Roti,Steam Rice, ",893,"cash","Hadapsar","Pune","Maharashtra","India",411731,5,5,4
+"429",429,"U1086","28-09-17",18,"paratha,Chili Chicken,Butter Chicken,Tandoor Roti,Chicken Biriyani,Kheer",1666,"cash","Katraj","Pune","Maharashtra","India",411965,3,1,2
+"430",430,"U1137","30-10-17",18,"idli,Chicken 65,Paneer Butter Masala,Butter Naan,Veg Biryani,Gulab Jamun",1256,"cash","Ganeshkhind","Pune","Maharashtra","India",411747,1,1,5
+"431",431,"U1046","12-03-17",16,"dosa,Masala Papad,Paneer Butter Masala, Aaloo paratha,Mutton Biryani,Barfi",622,"cash","Swargate","Pune","Maharashtra","India",411384,2,5,1
+"432",432,"U1090","11-01-17",19,"Dhokla,Chaat Papri, ,Chapati,Veg Biryani,Kheer",490,"cash","Wadgaon Sheri","Pune","Maharashtra","India",411695,3,1,3
+"433",433,"U1059","25-06-17",20,"wada,chicken Kabab,Paneer Butter Masala,Tandoor Roti,Chicken Biriyani,Cham-Cham",1547,"cash","Katraj","Pune","Maharashtra","India",411792,1,1,1
+"434",434,"U1049","27-04-17",10,"idli, ,Chicken Tikka,Chapati,Chicken Biriyani,Barfi",1792,"cash","Wagholi","Pune","Maharashtra","India",411786,5,3,3
+"435",435,"U1002","09-12-17",13,"Dhokla,Masala Papad,Beef Vindaloo,Tandoor Roti, ,Cham-Cham",551,"cash","Dattawadi","Pune","Maharashtra","India",411524,1,2,3
+"436",436,"U1077","07-11-17",9,"dosa,Chicken 65,Beef Vindaloo,Chapati,Pulao,Cham-Cham",1265,"cash","Swargate","Pune","Maharashtra","India",411026,1,4,4
+"437",437,"U1108","03-11-17",8,"dosa,Veg Kabab, , ,Chicken Biriyani,Kheer",359,"cash","Deccan","Pune","Maharashtra","India",411678,1,4,2
+"438",438,"U1081","28-06-17",11,"dosa,chicken Kabab,Beef Vindaloo,Tandoor Roti,Pulao,Kheer",1551,"cash","Shivajinagar","Pune","Maharashtra","India",411277,4,1,1
+"439",439,"U1056","01-09-17",7,"paratha, ,Beef Vindaloo, Aaloo paratha,Chicken Biriyani,Carrot Halwa",251,"cash","Hadapsar","Pune","Maharashtra","India",411765,2,1,4
+"440",440,"U1134","12-05-17",19,"idli,Veg Kabab,Chana Masala,Tandoor Roti,Mutton Biryani, ",529,"cash","Swargate","Pune","Maharashtra","India",411517,4,4,4
+"441",441,"U1116","20-10-17",18,"idli,chicken Kabab,Chicken Tikka,Chapati,Pulao,Ice Cream",1821,"cash","Kharadi","Pune","Maharashtra","India",411190,1,1,3
+"442",442,"U1132","15-08-17",20,"wada,Veg Kabab,Paneer Butter Masala, Aaloo paratha,Pulao,Carrot Halwa",1858,"cash","Hadapsar","Pune","Maharashtra","India",411410,3,5,4
+"443",443,"U1120","25-09-17",14,"idli,Chaat Papri,Dal Makhani, ,Mutton Biryani,Kulfi",987,"cash","Kothrud","Pune","Maharashtra","India",411002,2,5,4
+"444",444,"U1036","10-01-17",7," ,chicken Kabab, ,Chapati,Steam Rice,Cham-Cham",378,"cash","Baner","Pune","Maharashtra","India",411516,3,2,4
+"445",445,"U1084","13-12-17",9,"wada,Veg Kabab,Chana Masala,Chapati, ,Carrot Halwa",1276,"cash","Hadapsar","Pune","Maharashtra","India",411259,5,1,2
+"446",446,"U1113","02-01-17",8,"dosa,Veg Kabab,Paneer Butter Masala,Butter Naan,Veg Biryani,Gulab Jamun",626,"cash","Bavdhan","Pune","Maharashtra","India",411250,1,2,3
+"447",447,"U1104","12-02-17",9,"wada,Chaat Papri,Butter Chicken, ,Steam Rice,Gulab Jamun",835,"cash","Kharadi","Pune","Maharashtra","India",411608,1,5,5
+"448",448,"U1106","26-02-17",23,"paratha,chicken Kabab,Alu Gobi,Tandoor Roti, ,Cham-Cham",1398,"cash","Katraj","Pune","Maharashtra","India",411036,4,3,1
+"449",449,"U1045","12-10-17",13," ,Chicken 65,Dal Makhani,Butter Naan,Pulao,Kheer",1045,"cash","Kothrud","Pune","Maharashtra","India",411694,3,1,5
+"450",450,"U1016","12-04-17",22,"idli,Veg Kabab,Chicken Tikka,Tandoor Roti,Chicken Biriyani, ",1628,"cash","Pashan","Pune","Maharashtra","India",411157,5,4,2
+"451",451,"U1007","23-05-17",14," ,Chili Chicken,Beef Vindaloo,Chapati,Mutton Biryani,Kheer",645,"cash","Chandan Nagar","Pune","Maharashtra","India",411465,1,1,3
+"452",452,"U1013","20-10-17",22," ,Chaat Papri,Paneer Butter Masala, Aaloo paratha,Pulao,Barfi",1085,"cash","Parvati Hill","Pune","Maharashtra","India",411425,5,2,2
+"453",453,"U1001","24-06-17",13,"paratha,Veg Kabab,Chana Masala, ,Mutton Biryani,Barfi",1889,"cash","Ganeshkhind","Pune","Maharashtra","India",411773,5,1,3
+"454",454,"U1135","18-08-17",15,"idli,Masala Papad,Chana Masala,Butter Naan,Chicken Biriyani,Kulfi",1007,"cash","Anandnagar","Pune","Maharashtra","India",411985,3,4,5
+"455",455,"U1032","26-12-17",13,"wada,Masala Papad,Chicken Tikka,Tandoor Roti,Mutton Biryani,Gulab Jamun",333,"cash","Bibwewadi","Pune","Maharashtra","India",411605,4,1,5
+"456",456,"U1062","27-09-17",21,"dosa, ,Dal Makhani,Tandoor Roti,Chicken Biriyani, ",846,"cash","Swargate","Pune","Maharashtra","India",411603,3,4,1
+"457",457,"U1092","22-03-17",9,"dosa,Veg Kabab,Chicken Tikka, ,Chicken Biriyani,Carrot Halwa",1088,"cash","Bund Garden","Pune","Maharashtra","India",411584,3,2,3
+"458",458,"U1109","26-10-17",18,"idli,Chicken 65, ,Butter Naan,Pulao,Gulab Jamun",1788,"cash","Handewadi","Pune","Maharashtra","India",411199,4,2,4
+"459",459,"U1122","11-08-17",13,"dosa, ,Beef Vindaloo,Chapati, ,Kulfi",161,"cash","Baner","Pune","Maharashtra","India",411748,1,2,5
+"460",460,"U1098","23-12-17",10,"dosa,Chili Chicken,Alu Matar,Chapati,Mutton Biryani,Kheer",1110,"cash","Dattawadi","Pune","Maharashtra","India",411982,5,4,5
+"461",461,"U1033","29-01-17",23,"idli,Chaat Papri,Butter Chicken,Chapati,Pulao,Gulab Jamun",1471,"cash","Pashan","Pune","Maharashtra","India",411234,1,3,4
+"462",462,"U1089","10-12-17",17,"wada,Masala Papad,Chana Masala, ,Steam Rice,Carrot Halwa",1678,"cash","Yerwada","Pune","Maharashtra","India",411078,2,3,1
+"463",463,"U1027","02-11-17",13,"dosa,chicken Kabab,Paneer Butter Masala,Chapati,Mutton Biryani,Barfi",245,"cash","Dattawadi","Pune","Maharashtra","India",411269,5,2,1
+"464",464,"U1029","06-06-17",7,"dosa,Masala Papad,Alu Matar, ,Pulao,Gulab Jamun",1614,"cash","Aundh","Pune","Maharashtra","India",411346,5,1,4
+"465",465,"U1086","22-03-17",13,"Dhokla,Masala Papad,Dal Makhani,Butter Naan,Mutton Biryani,Carrot Halwa",1857,"cash","Pashan","Pune","Maharashtra","India",411900,1,1,3
+"466",466,"U1137","08-10-17",13,"paratha,Veg Kabab,Alu Matar, Aaloo paratha, , ",605,"cash","Parvati Hill","Pune","Maharashtra","India",411251,3,4,3
+"467",467,"U1046","06-05-17",9,"dosa,Veg Kabab,Chicken Tikka,Tandoor Roti,Steam Rice,Gulab Jamun",1155,"cash","Bund Garden","Pune","Maharashtra","India",411345,3,3,2
+"468",468,"U1090","02-09-17",7,"idli, ,Paneer Butter Masala, Aaloo paratha, ,Carrot Halwa",1816,"cash","Bund Garden","Pune","Maharashtra","India",411176,2,1,4
+"469",469,"U1059","31-12-17",10,"dosa,Chaat Papri,Chana Masala,Tandoor Roti, ,Kulfi",802,"cash","Aundh","Pune","Maharashtra","India",411532,3,2,3
+"470",470,"U1049","04-02-17",12,"dosa,Veg Kabab,Alu Matar, ,Steam Rice,Kheer",1640,"cash","Pashan","Pune","Maharashtra","India",411701,5,5,2
+"471",471,"U1002","22-01-17",22," ,Masala Papad,Alu Matar, Aaloo paratha,Pulao,Ice Cream",696,"cash","Wadgaon Sheri","Pune","Maharashtra","India",411841,1,4,3
+"472",472,"U1134","17-12-17",15,"wada,Chili Chicken, ,Chapati,Chicken Biriyani,Ice Cream",1200,"cash","Bund Garden","Pune","Maharashtra","India",411194,4,2,1
+"473",473,"U1036","11-08-17",10,"wada,Chicken 65,Paneer Butter Masala, ,Veg Biryani,Barfi",1730,"cash","Yerwada","Pune","Maharashtra","India",411525,3,4,4
+"474",474,"U1113","17-09-17",19,"wada,chicken Kabab,Paneer Butter Masala, ,Mutton Biryani,Gulab Jamun",183,"cash","Deccan","Pune","Maharashtra","India",411616,1,3,5
+"475",475,"U1106","09-08-17",8,"Dhokla,chicken Kabab,Chana Masala,Butter Naan,Pulao, ",1093,"cash","Koregaon Park","Pune","Maharashtra","India",411589,5,5,5
+"476",476,"U1009","26-07-17",11," ,Veg Kabab,Butter Chicken,Butter Naan,Chicken Biriyani,Barfi",1248,"cash","Deccan","Pune","Maharashtra","India",411497,3,3,2
+"477",477,"U1013","29-03-17",10,"dosa,Veg Kabab,Chicken Tikka,Butter Naan, ,Barfi",1228,"cash","Wadgaon Sheri","Pune","Maharashtra","India",411616,2,5,2
+"478",478,"U1032","27-06-17",13,"wada,chicken Kabab,Dal Makhani,Tandoor Roti,Mutton Biryani, ",847,"cash","Kharadi","Pune","Maharashtra","India",411451,5,4,1
+"479",479,"U1019","13-11-17",19,"dosa,Chicken 65,Alu Gobi, Aaloo paratha,Veg Biryani,Carrot Halwa",663,"cash","Baner","Pune","Maharashtra","India",411814,4,2,3
+"480",480,"U1122","31-08-17",23,"wada,Veg Kabab,Dal Makhani, ,Veg Biryani,Carrot Halwa",1100,"cash","Bund Garden","Pune","Maharashtra","India",411408,3,1,4
+"481",481,"U1098","06-08-17",9," ,Chili Chicken,Butter Chicken, Aaloo paratha,Steam Rice,Kheer",973,"cash","Katraj","Pune","Maharashtra","India",411413,2,1,1
+"482",482,"U1089","23-08-17",17,"paratha,Chicken 65, ,Butter Naan, ,Barfi",1721,"cash","Bund Garden","Pune","Maharashtra","India",411642,4,4,1
+"483",483,"U1003","24-08-17",17,"idli,Veg Kabab,Dal Makhani, ,Veg Biryani, ",1118,"cash","Bibwewadi","Pune","Maharashtra","India",411709,5,5,5
+"484",484,"U1112","18-03-17",22,"idli,chicken Kabab,Alu Matar,Chapati,Veg Biryani,Barfi",1848,"cash","Shivajinagar","Pune","Maharashtra","India",411465,5,2,2
+"485",485,"U1097","30-03-17",17,"dosa,Chicken 65,Alu Gobi, ,Pulao,Gulab Jamun",476,"cash","Pashan","Pune","Maharashtra","India",411995,1,1,4
+"486",486,"U1128","04-06-17",9,"paratha,Chicken 65,Chana Masala,Chapati,Veg Biryani,Kheer",1513,"cash","Kharadi","Pune","Maharashtra","India",411339,4,3,4
+"487",487,"U1006","15-07-17",17,"dosa,Veg Kabab,Alu Matar,Tandoor Roti,Mutton Biryani,Ice Cream",799,"cash","Aundh","Pune","Maharashtra","India",411869,1,4,1
+"488",488,"U1010","17-05-17",7," , ,Chicken Tikka, Aaloo paratha,Pulao, ",615,"cash","Anandnagar","Pune","Maharashtra","India",411152,5,2,3
+"489",489,"U1134","06-01-17",23,"Dhokla,Veg Kabab,Dal Makhani,Tandoor Roti,Veg Biryani,Kulfi",455,"cash","Balewadi","Pune","Maharashtra","India",411448,4,5,3
+"490",490,"U1036","07-01-17",10,"idli,Chicken 65,Alu Gobi,Chapati,Veg Biryani, ",607,"cash","Yerwada","Pune","Maharashtra","India",411868,3,3,5
+"491",491,"U1113","30-10-17",13,"dosa,Chaat Papri, ,Chapati,Steam Rice,Kulfi",1856,"cash","Katraj","Pune","Maharashtra","India",411982,4,3,5
+"492",492,"U1106","18-09-17",21,"wada,Chicken 65,Beef Vindaloo, ,Chicken Biriyani,Cham-Cham",1422,"cash","Deccan","Pune","Maharashtra","India",411984,5,5,2
+"493",493,"U1009","19-03-17",17,"wada,Chaat Papri,Alu Matar,Butter Naan,Veg Biryani,Gulab Jamun",1926,"cash","Ganeshkhind","Pune","Maharashtra","India",411094,5,3,1
+"494",494,"U1013","18-01-17",20,"wada,chicken Kabab, ,Chapati,Steam Rice,Cham-Cham",974,"cash","Parvati Hill","Pune","Maharashtra","India",411482,4,1,5
+"495",495,"U1032","02-07-17",9,"Dhokla, ,Beef Vindaloo,Chapati,Steam Rice,Cham-Cham",1515,"cash","Bavdhan","Pune","Maharashtra","India",411597,3,3,4
+"496",496,"U1019","15-05-17",9,"paratha,Veg Kabab,Alu Matar,Chapati,Veg Biryani,Ice Cream",294,"cash","Aundh","Pune","Maharashtra","India",411111,4,2,5
+"497",497,"U1122","08-03-17",21,"Dhokla,Veg Kabab,Dal Makhani,Chapati,Chicken Biriyani,Kheer",217,"cash","Balewadi","Pune","Maharashtra","India",411654,3,4,5
+"498",498,"U1098","03-01-17",21,"wada,chicken Kabab, , ,Steam Rice,Ice Cream",130,"cash","Bibwewadi","Pune","Maharashtra","India",411822,4,1,2
+"499",499,"U1089","08-06-17",9,"paratha,Chaat Papri,Alu Gobi, Aaloo paratha,Steam Rice,Barfi",908,"cash","Pashan","Pune","Maharashtra","India",411912,3,1,2
+"500",500,"U1003","23-05-17",22,"idli,Chicken 65,Chicken Tikka, Aaloo paratha,Steam Rice,Gulab Jamun",1958,"cash","Balewadi","Pune","Maharashtra","India",411379,2,5,1
+"501",501,"U1112","",22,"dosa,Masala Papad,Paneer Butter Masala,Tandoor Roti, ,Cham-Cham",554,"cash","Pashan","Pune","Maharashtra","India",411656,5,4,4
+"502",502,"U1097","",19,"Dhokla,chicken Kabab,Alu Gobi,Tandoor Roti,Pulao,Kheer",1054,"cash","Katraj","Pune","Maharashtra","India",411662,1,5,3
+"503",503,"U1128","",10," ,Chicken 65,Alu Gobi,Chapati,Steam Rice,Gulab Jamun",677,"cash","Khadki","Pune","Maharashtra","India",411898,3,4,5
+"504",504,"U1006","",18,"wada,Masala Papad,Paneer Butter Masala,Butter Naan,Chicken Biriyani,Carrot Halwa",180,"cash","Aundh","Pune","Maharashtra","India",411475,1,2,4
+"505",505,"U1010","",22,"dosa,Chicken 65,Dal Makhani,Butter Naan,Veg Biryani,Gulab Jamun",680,"cash","Kothrud","Pune","Maharashtra","India",411152,1,1,2
+"506",506,"U1134","",17,"Dhokla, ,Beef Vindaloo,Tandoor Roti,Veg Biryani, ",857,"cash","Kharadi","Pune","Maharashtra","India",411025,1,2,1
+"507",507,"U1036","",14,"paratha,Veg Kabab,Beef Vindaloo,Butter Naan,Veg Biryani,Ice Cream",1044,"cash","Shivajinagar","Pune","Maharashtra","India",411428,1,2,5
+"508",508,"U1113","",16,"idli,chicken Kabab,Dal Makhani,Chapati,Pulao,Kheer",136,"cash","Katraj","Pune","Maharashtra","India",411659,1,5,5
+"509",509,"U1106","",20,"idli,Chicken 65,Chicken Tikka, Aaloo paratha,Pulao,Kulfi",1717,"cash","Pashan","Pune","Maharashtra","India",411193,2,1,4
+"510",510,"U1009","",10,"idli,Chili Chicken,Dal Makhani, ,Veg Biryani,Carrot Halwa",1753,"cash","Katraj","Pune","Maharashtra","India",411244,3,2,3
+"511",511,"U1013","",12,"Dhokla,Chicken 65, ,Tandoor Roti, ,Ice Cream",1187,"cash","Bavdhan","Pune","Maharashtra","India",411286,3,3,5
+"512",512,"U1032","",18," ,Chili Chicken, , ,Veg Biryani,Cham-Cham",269,"cash","Chandan Nagar","Pune","Maharashtra","India",411464,2,3,4
+"513",513,"U1019","",12,"wada,Masala Papad, ,Chapati, ,Ice Cream",1526,"cash","Katraj","Pune","Maharashtra","India",411679,3,3,3
+"514",514,"U1122","",19,"Dhokla,chicken Kabab,Alu Matar,Butter Naan,Veg Biryani,Kulfi",849,"cash","Bavdhan","Pune","Maharashtra","India",411444,3,5,2
+"515",515,"U1098","",19,"paratha,Chaat Papri,Butter Chicken,Butter Naan,Steam Rice, ",1185,"cash","Wadgaon Sheri","Pune","Maharashtra","India",411174,2,1,3
+"516",516,"U1089","",11,"paratha,Chaat Papri,Paneer Butter Masala, ,Mutton Biryani,Ice Cream",1078,"cash","Hadapsar","Pune","Maharashtra","India",411437,1,2,4
+"517",517,"U1003","",14,"paratha,Chicken 65,Beef Vindaloo, ,Mutton Biryani,Carrot Halwa",606,"cash","Swargate","Pune","Maharashtra","India",411924,1,1,1
+"518",518,"U1112","",22,"paratha,Chicken 65,Dal Makhani, , ,Kheer",912,"cash","Wagholi","Pune","Maharashtra","India",411525,3,4,4
+"519",519,"U1097","",19,"paratha,chicken Kabab,Chicken Tikka, Aaloo paratha,Pulao,Gulab Jamun",310,"cash","Wadgaon Sheri","Pune","Maharashtra","India",411347,3,3,1
+"520",520,"U1128","",15,"Dhokla,Chili Chicken,Alu Gobi, ,Mutton Biryani,Carrot Halwa",1824,"cash","Handewadi","Pune","Maharashtra","India",411805,5,4,1
+"521",521,"U1006","",11,"idli,Chili Chicken,Butter Chicken,Butter Naan,Pulao,Carrot Halwa",713,"cash","Bibwewadi","Pune","Maharashtra","India",411936,2,2,4
+"522",522,"U1010","",8,"wada,Masala Papad, , Aaloo paratha,Chicken Biriyani,Barfi",1935,"cash","Kothrud","Pune","Maharashtra","India",411542,1,4,4
+"523",523,"U1134","",17,"paratha,chicken Kabab,Butter Chicken,Chapati,Steam Rice,Barfi",1672,"American_Express","Katraj","Pune","Maharashtra","India",411406,2,2,1
+"524",524,"U1036","",12,"idli,chicken Kabab,Chicken Tikka,Tandoor Roti,Steam Rice,Carrot Halwa",100,"American_Express","Kharadi","Pune","Maharashtra","India",411130,3,3,4
+"525",525,"U1113","",20,"idli,chicken Kabab,Chicken Tikka,Tandoor Roti,Veg Biryani,Barfi",1573,"American_Express","Chandan Nagar","Pune","Maharashtra","India",411911,1,4,3
+"526",526,"U1106","",15,"Dhokla, ,Dal Makhani, Aaloo paratha,Pulao,Kulfi",442,"American_Express","Baner","Pune","Maharashtra","India",411752,1,5,3
+"527",527,"U1009","",13,"Dhokla,Veg Kabab,Chicken Tikka,Chapati,Chicken Biriyani, ",1612,"American_Express","Swargate","Pune","Maharashtra","India",411021,1,2,1
+"528",528,"U1013","",8,"Dhokla,Chicken 65,Chicken Tikka, ,Pulao, ",348,"American_Express","Balewadi","Pune","Maharashtra","India",411726,4,4,4
+"529",529,"U1032","",8,"idli,Chili Chicken,Chana Masala, Aaloo paratha,Veg Biryani,Ice Cream",424,"American_Express","Bavdhan","Pune","Maharashtra","India",411917,4,3,2
+"530",530,"U1019","",12,"dosa,Veg Kabab,Alu Gobi,Chapati,Pulao,Barfi",532,"American_Express","Hadapsar","Pune","Maharashtra","India",411856,3,1,4
+"531",531,"U1122","",21,"idli,Chili Chicken,Butter Chicken,Chapati,Pulao,Carrot Halwa",673,"American_Express","Kothrud","Pune","Maharashtra","India",411232,3,5,3
+"532",532,"U1098","",19," ,Chicken 65,Chana Masala,Butter Naan,Mutton Biryani,Gulab Jamun",1290,"American_Express","Shivajinagar","Pune","Maharashtra","India",411040,5,4,5
+"533",533,"U1089","",7,"Dhokla, , ,Chapati,Veg Biryani,Cham-Cham",1350,"American_Express","Baner","Pune","Maharashtra","India",411078,2,2,4
+"534",534,"U1003","",18,"dosa,Chaat Papri,Dal Makhani,Chapati,Steam Rice,Kheer",1430,"American_Express","Khadki","Pune","Maharashtra","India",411856,3,2,5
+"535",535,"U1112","",16,"paratha,Chaat Papri,Beef Vindaloo,Butter Naan,Chicken Biriyani,Gulab Jamun",1626,"American_Express","Ganeshkhind","Pune","Maharashtra","India",411452,4,5,2
+"536",536,"U1097","",9,"wada,Masala Papad,Beef Vindaloo, Aaloo paratha,Steam Rice,Barfi",872,"American_Express","Anandnagar","Pune","Maharashtra","India",411455,4,4,3
+"537",537,"U1128","",13,"Dhokla,chicken Kabab,Alu Matar,Chapati,Pulao, ",104,"American_Express","Ganeshkhind","Pune","Maharashtra","India",411511,4,3,1
+"538",538,"U1006","",17,"paratha,Veg Kabab,Alu Gobi,Butter Naan, ,Carrot Halwa",1918,"American_Express","Kothrud","Pune","Maharashtra","India",411510,2,2,3
+"539",539,"U1010","",21,"wada, ,Chana Masala,Butter Naan,Chicken Biriyani, ",514,"American_Express","Aundh","Pune","Maharashtra","India",411016,5,1,4
+"540",540,"U1134","",12,"dosa,chicken Kabab,Paneer Butter Masala,Chapati,Steam Rice,Cham-Cham",1255,"American_Express","Balewadi","Pune","Maharashtra","India",411888,5,2,3
+"541",541,"U1036","",19,"wada, ,Butter Chicken,Butter Naan,Veg Biryani,Carrot Halwa",598,"American_Express","Deccan","Pune","Maharashtra","India",411928,2,4,3
+"542",542,"U1113","",14,"paratha,chicken Kabab,Butter Chicken, ,Veg Biryani,Carrot Halwa",789,"American_Express","Parvati Hill","Pune","Maharashtra","India",411263,1,5,3
+"543",543,"U1106","",10," ,Chicken 65,Chana Masala,Butter Naan, ,Gulab Jamun",1998,"American_Express","Anandnagar","Pune","Maharashtra","India",411363,3,4,2
+"544",544,"U1009","",12," ,Veg Kabab,Chana Masala, Aaloo paratha, ,Ice Cream",1444,"American_Express","Parvati Hill","Pune","Maharashtra","India",411214,5,5,5
+"545",545,"U1013","",19,"paratha,Veg Kabab,Dal Makhani,Butter Naan,Veg Biryani,Kheer",865,"American_Express","Katraj","Pune","Maharashtra","India",411776,3,5,3
+"546",546,"U1032","",13,"idli,Chicken 65,Butter Chicken, Aaloo paratha,Chicken Biriyani,Barfi",1764,"American_Express","Kharadi","Pune","Maharashtra","India",411119,2,1,4
+"547",547,"U1019","",10,"paratha,Masala Papad,Alu Matar, ,Steam Rice,Gulab Jamun",686,"American_Express","Shivajinagar","Pune","Maharashtra","India",411026,2,3,5
+"548",548,"U1122","",20,"paratha,Chili Chicken,Chicken Tikka,Chapati,Veg Biryani,Gulab Jamun",1364,"American_Express","Kothrud","Pune","Maharashtra","India",411858,4,1,3
+"549",549,"U1098","",14,"wada,Veg Kabab,Dal Makhani,Tandoor Roti,Steam Rice, ",1450,"American_Express","Parvati Hill","Pune","Maharashtra","India",411153,2,3,5
+"550",550,"U1089","",23,"dosa,chicken Kabab,Chicken Tikka,Chapati, ,Carrot Halwa",881,"American_Express","Kothrud","Pune","Maharashtra","India",411006,5,4,1
+"551",551,"U1003","",10,"wada,Masala Papad,Chicken Tikka, Aaloo paratha,Veg Biryani,Barfi",375,"American_Express","Khadki","Pune","Maharashtra","India",411010,3,1,4
+"552",552,"U1112","",19,"wada,Masala Papad,Alu Gobi, ,Pulao,Cham-Cham",333,"American_Express","Deccan","Pune","Maharashtra","India",411134,5,1,4
+"553",553,"U1097","",19,"wada,Chicken 65, ,Chapati,Veg Biryani,Kheer",906,"American_Express","Pashan","Pune","Maharashtra","India",411215,3,2,3
+"554",554,"U1128","",23,"paratha,Masala Papad,Alu Matar,Butter Naan,Steam Rice,Cham-Cham",1280,"American_Express","Wadgaon Sheri","Pune","Maharashtra","India",411350,4,3,2
+"555",555,"U1006","",22," ,Chili Chicken,Alu Matar,Chapati,Veg Biryani,Kulfi",1443,"American_Express","Baner","Pune","Maharashtra","India",411461,4,1,5
+"556",556,"U1010","",14,"wada,chicken Kabab,Beef Vindaloo,Tandoor Roti,Steam Rice,Ice Cream",1988,"American_Express","Wadgaon Sheri","Pune","Maharashtra","India",411095,1,4,1
+"557",557,"U1134","",8,"Dhokla,Masala Papad,Paneer Butter Masala, , , ",1027,"American_Express","Baner","Pune","Maharashtra","India",411718,3,5,1
+"558",558,"U1036","",10," ,chicken Kabab,Paneer Butter Masala,Tandoor Roti,Veg Biryani,Ice Cream",1753,"American_Express","Khadki","Pune","Maharashtra","India",411066,2,3,1
+"559",559,"U1113","",20,"idli,Chili Chicken,Alu Matar, Aaloo paratha, ,Kheer",910,"American_Express","Handewadi","Pune","Maharashtra","India",411355,3,4,1
+"560",560,"U1106","",19,"wada,chicken Kabab,Alu Gobi,Tandoor Roti,Mutton Biryani,Ice Cream",983,"American_Express","Koregaon Park","Pune","Maharashtra","India",411303,4,1,3
+"561",561,"U1009","",23,"idli,Chili Chicken, ,Butter Naan, ,Cham-Cham",1099,"American_Express","Balewadi","Pune","Maharashtra","India",411940,4,1,4
+"562",562,"U1013","",8,"Dhokla,Masala Papad,Alu Gobi,Butter Naan,Steam Rice,Gulab Jamun",1492,"American_Express","Katraj","Pune","Maharashtra","India",411636,3,2,1
+"563",563,"U1032","",12,"paratha,Chili Chicken,Paneer Butter Masala,Butter Naan,Steam Rice,Kheer",472,"American_Express","Khadki","Pune","Maharashtra","India",411048,1,2,1
+"564",564,"U1019","",10,"paratha,Chicken 65,Chicken Tikka, ,Veg Biryani,Cham-Cham",1737,"American_Express","Kothrud","Pune","Maharashtra","India",411831,1,1,5
+"565",565,"U1122","",20,"dosa,Chili Chicken,Beef Vindaloo, ,Veg Biryani,Kheer",1857,"American_Express","Wadgaon Sheri","Pune","Maharashtra","India",411675,1,5,5
+"566",566,"U1098","",13," ,Chaat Papri,Dal Makhani,Butter Naan,Steam Rice,Kheer",1513,"American_Express","Shivajinagar","Pune","Maharashtra","India",411037,5,4,5
+"567",567,"U1089","",23," ,Chicken 65,Alu Gobi, Aaloo paratha,Steam Rice,Carrot Halwa",1986,"American_Express","Wadgaon Sheri","Pune","Maharashtra","India",411609,4,4,3
+"568",568,"U1003","",7,"paratha,Masala Papad,Paneer Butter Masala,Butter Naan,Steam Rice,Kulfi",616,"American_Express","Anandnagar","Pune","Maharashtra","India",411680,5,4,3
+"569",569,"U1112","",21,"wada,Chili Chicken,Beef Vindaloo,Chapati,Veg Biryani, ",589,"American_Express","Baner","Pune","Maharashtra","India",411380,3,5,1
+"570",570,"U1097","",8,"Dhokla,Chicken 65, ,Butter Naan,Pulao,Barfi",558,"American_Express","Ganeshkhind","Pune","Maharashtra","India",411993,4,3,3
+"571",571,"U1128","",10,"idli, ,Dal Makhani, ,Chicken Biriyani,Carrot Halwa",1031,"American_Express","Anandnagar","Pune","Maharashtra","India",411789,4,2,1
+"572",572,"U1006","",14,"idli,Veg Kabab,Dal Makhani,Butter Naan, ,Carrot Halwa",1254,"American_Express","Bibwewadi","Pune","Maharashtra","India",411125,5,3,5
+"573",573,"U1010","",15,"paratha,Chaat Papri,Paneer Butter Masala, Aaloo paratha,Steam Rice,Kheer",1854,"American_Express","Dattawadi","Pune","Maharashtra","India",411480,3,2,4
+"574",574,"U1108","",18,"paratha,Chili Chicken,Chana Masala, ,Pulao,Kheer",1832,"cash","Pashan","Pune","Maharashtra","India",411660,2,1,1
+"575",575,"U1055","",8,"dosa,chicken Kabab,Chana Masala,Butter Naan,Pulao,Kulfi",190,"cash","Kharadi","Pune","Maharashtra","India",411761,4,3,3
+"576",576,"U1134","",15,"idli,Chicken 65,Alu Matar,Tandoor Roti,Chicken Biriyani,Kulfi",1019,"cash","Bund Garden","Pune","Maharashtra","India",411653,1,2,3
+"577",577,"U1033","",20,"dosa,chicken Kabab,Paneer Butter Masala,Chapati,Chicken Biriyani, ",1317,"cash","Balewadi","Pune","Maharashtra","India",411550,3,3,3
+"578",578,"U1003","",11,"wada,Chicken 65,Butter Chicken, Aaloo paratha,Mutton Biryani,Ice Cream",1127,"cash","Wadgaon Sheri","Pune","Maharashtra","India",411390,2,4,2
+"579",579,"U1091","",21,"wada, ,Butter Chicken, , ,Gulab Jamun",125,"cash","Pashan","Pune","Maharashtra","India",411992,2,3,4
+"580",580,"U1137","",15," , ,Paneer Butter Masala,Butter Naan,Steam Rice,Cham-Cham",1519,"cash","Bibwewadi","Pune","Maharashtra","India",411933,5,3,3
+"581",581,"U1061","",18,"dosa,Chicken 65,Beef Vindaloo,Chapati,Steam Rice,Cham-Cham",283,"cash","Chandan Nagar","Pune","Maharashtra","India",411034,1,2,2
+"582",582,"U1013","",22,"Dhokla,chicken Kabab,Chana Masala, Aaloo paratha,Veg Biryani,Kheer",1881,"cash","Shivajinagar","Pune","Maharashtra","India",411191,1,3,2
+"583",583,"U1059","",8,"paratha,Veg Kabab,Alu Matar,Butter Naan,Chicken Biriyani,Kulfi",746,"cash","Anandnagar","Pune","Maharashtra","India",411560,3,1,1
+"584",584,"U1057","",20,"Dhokla,Veg Kabab,Dal Makhani,Tandoor Roti,Chicken Biriyani,Kulfi",1858,"cash","Bibwewadi","Pune","Maharashtra","India",411597,4,3,2
+"585",585,"U1006","",15,"idli,chicken Kabab,Butter Chicken,Tandoor Roti,Steam Rice,Barfi",830,"cash","Balewadi","Pune","Maharashtra","India",411027,1,3,5
+"586",586,"U1096","",15,"Dhokla,Chicken 65,Alu Gobi,Butter Naan, ,Barfi",1191,"cash","Chandan Nagar","Pune","Maharashtra","India",411964,5,4,2
+"587",587,"U1108","",14," ,Masala Papad,Butter Chicken,Tandoor Roti,Veg Biryani,Ice Cream",112,"cash","Parvati Hill","Pune","Maharashtra","India",411282,4,1,5
+"588",588,"U1055","",22,"wada,Veg Kabab,Alu Matar,Tandoor Roti,Mutton Biryani,Kheer",888,"cash","Bavdhan","Pune","Maharashtra","India",411861,4,5,1
+"589",589,"U1134","",22,"idli,Chaat Papri,Beef Vindaloo,Butter Naan,Veg Biryani,Carrot Halwa",304,"cash","Baner","Pune","Maharashtra","India",411452,1,4,2
+"590",590,"U1033","",16,"idli,Chili Chicken,Dal Makhani,Tandoor Roti,Steam Rice,Gulab Jamun",1982,"cash","Khadki","Pune","Maharashtra","India",411986,3,5,1
+"591",591,"U1003","",18,"dosa,Chaat Papri,Chana Masala,Butter Naan,Steam Rice,Kulfi",551,"cash","Bibwewadi","Pune","Maharashtra","India",411625,3,2,5
+"592",592,"U1091","",17,"wada,Masala Papad,Alu Matar,Chapati,Steam Rice,Carrot Halwa",837,"cash","Balewadi","Pune","Maharashtra","India",411294,1,3,4
+"593",593,"U1137","",17,"wada,Masala Papad,Butter Chicken,Chapati, ,Kheer",929,"cash","Parvati Hill","Pune","Maharashtra","India",411159,5,4,4
+"594",594,"U1061","",10," ,Chicken 65,Butter Chicken, Aaloo paratha,Mutton Biryani, ",310,"cash","Baner","Pune","Maharashtra","India",411480,4,3,2
+"595",595,"U1013","",9,"Dhokla,Masala Papad, ,Butter Naan, ,Gulab Jamun",1695,"cash","Swargate","Pune","Maharashtra","India",411010,3,1,4
+"596",596,"U1059","",14,"Dhokla,Masala Papad,Beef Vindaloo,Butter Naan, ,Kulfi",114,"cash","Parvati Hill","Pune","Maharashtra","India",411379,5,4,3
+"597",597,"U1057","",17,"Dhokla, ,Chicken Tikka, Aaloo paratha,Mutton Biryani,Ice Cream",713,"cash","Ganeshkhind","Pune","Maharashtra","India",411409,3,2,5
+"598",598,"U1006","",15,"paratha,Chaat Papri,Paneer Butter Masala,Tandoor Roti,Pulao,Carrot Halwa",785,"cash","Kothrud","Pune","Maharashtra","India",411206,3,5,3
+"599",599,"U1096","",17,"paratha,Veg Kabab,Paneer Butter Masala,Butter Naan,Chicken Biriyani,Ice Cream",1506,"cash","Katraj","Pune","Maharashtra","India",411441,4,2,1
+"600",600,"U1108","",13,"dosa,chicken Kabab, , ,Veg Biryani, ",1433,"cash","Kharadi","Pune","Maharashtra","India",411236,3,1,4
+"601",601,"U1055","",13," ,chicken Kabab, ,Butter Naan,Steam Rice,Carrot Halwa",335,"cash","Anandnagar","Pune","Maharashtra","India",411791,1,2,2
+"602",602,"U1134","",11,"Dhokla,Chicken 65,Alu Gobi,Tandoor Roti,Chicken Biriyani, ",1844,"cash","Parvati Hill","Pune","Maharashtra","India",411840,5,1,2
+"603",603,"U1033","",7," ,Chaat Papri, , Aaloo paratha, , ",1890,"cash","Swargate","Pune","Maharashtra","India",411985,3,3,3
+"604",604,"U1003","",18," ,chicken Kabab, ,Chapati, ,Gulab Jamun",1946,"cash","Shivajinagar","Pune","Maharashtra","India",411646,4,3,1
+"605",605,"U1091","",15,"dosa, ,Chicken Tikka,Tandoor Roti,Steam Rice, ",1713,"cash","Balewadi","Pune","Maharashtra","India",411971,3,1,4
+"606",606,"U1137","",23,"idli,Chaat Papri,Paneer Butter Masala,Tandoor Roti,Pulao,Gulab Jamun",967,"cash","Balewadi","Pune","Maharashtra","India",411676,2,2,5
+"607",607,"U1061","",14," ,Veg Kabab,Beef Vindaloo, Aaloo paratha,Mutton Biryani,Cham-Cham",843,"cash","Kothrud","Pune","Maharashtra","India",411139,1,5,1
+"608",608,"U1013","",20,"wada,Chili Chicken,Alu Matar,Chapati, , ",383,"cash","Chandan Nagar","Pune","Maharashtra","India",411382,3,1,5
+"609",609,"U1059","",21,"dosa, ,Butter Chicken,Chapati,Pulao,Ice Cream",1594,"cash","Khadki","Pune","Maharashtra","India",411770,3,4,5
+"610",610,"U1057","",11,"wada,chicken Kabab,Alu Gobi,Tandoor Roti,Pulao,Gulab Jamun",1497,"cash","Khadki","Pune","Maharashtra","India",411038,1,3,2
+"611",611,"U1006","",18,"Dhokla,Chicken 65,Chana Masala,Chapati,Chicken Biriyani,Carrot Halwa",1942,"cash","Dattawadi","Pune","Maharashtra","India",411030,4,1,2
+"612",612,"U1096","",15,"idli, ,Butter Chicken,Tandoor Roti,Chicken Biriyani,Kheer",928,"cash","Baner","Pune","Maharashtra","India",411161,1,2,5
+"613",613,"U1108","",13,"wada,Masala Papad, ,Tandoor Roti,Pulao,Cham-Cham",1210,"cash","Balewadi","Pune","Maharashtra","India",411171,3,1,2
+"614",614,"U1083","",11,"Dhokla,chicken Kabab,Chicken Tikka,Tandoor Roti,Veg Biryani,Gulab Jamun",161,"cash","Shivajinagar","Pune","Maharashtra","India",411695,2,3,4
+"615",615,"U1134","",17,"Dhokla, ,Butter Chicken,Chapati,Chicken Biriyani,Kheer",128,"cash","Handewadi","Pune","Maharashtra","India",411819,2,1,1
+"616",616,"U1136","",20,"wada,Chicken 65,Paneer Butter Masala,Butter Naan,Steam Rice,Gulab Jamun",958,"cash","Bibwewadi","Pune","Maharashtra","India",411748,3,2,4
+"617",617,"U1108","",17,"idli,chicken Kabab,Dal Makhani,Tandoor Roti,Veg Biryani,Cham-Cham",174,"cash","Parvati Hill","Pune","Maharashtra","India",411915,5,2,1
+"618",618,"U1083","",19,"idli,Chaat Papri,Paneer Butter Masala,Tandoor Roti,Mutton Biryani,Kulfi",917,"cash","Pashan","Pune","Maharashtra","India",411221,5,5,5
+"619",619,"U1134","",15,"idli,Veg Kabab, , Aaloo paratha, ,Cham-Cham",1545,"cash","Swargate","Pune","Maharashtra","India",411221,5,2,5
+"620",620,"U1136","",18,"paratha,Chili Chicken,Chicken Tikka, ,Pulao,Barfi",1164,"cash","Bund Garden","Pune","Maharashtra","India",411163,2,1,5
+"621",621,"U1108","",20,"Dhokla,Masala Papad,Dal Makhani,Tandoor Roti, ,Gulab Jamun",967,"cash","Balewadi","Pune","Maharashtra","India",411462,5,3,4
+"622",622,"U1083","",23,"wada, ,Paneer Butter Masala, ,Pulao,Kulfi",1182,"cash","Koregaon Park","Pune","Maharashtra","India",411187,2,4,5
+"623",623,"U1134","",7,"paratha,chicken Kabab,Butter Chicken, ,Chicken Biriyani, ",145,"cash","Chandan Nagar","Pune","Maharashtra","India",411002,2,2,1
+"624",624,"U1136","",13," ,Chicken 65,Chana Masala,Tandoor Roti,Veg Biryani,Barfi",1229,"cash","Khadki","Pune","Maharashtra","India",411169,3,2,4
+"625",625,"U1108","",20,"idli,Chaat Papri,Chicken Tikka, ,Chicken Biriyani, ",1917,"VISA","Baner","Pune","Maharashtra","India",411602,2,1,2
+"626",626,"U1083","",19,"idli,Veg Kabab,Alu Matar, Aaloo paratha, ,Kulfi",1641,"VISA","Pashan","Pune","Maharashtra","India",411814,4,5,1
+"627",627,"U1134","",11,"idli, ,Dal Makhani, , ,Kulfi",319,"VISA","Wagholi","Pune","Maharashtra","India",411941,4,4,2
+"628",628,"U1136","",17,"Dhokla,chicken Kabab,Paneer Butter Masala,Chapati,Pulao,Barfi",1607,"VISA","Kharadi","Pune","Maharashtra","India",411863,1,5,3
+"629",629,"U1108","",18,"paratha,chicken Kabab,Paneer Butter Masala, Aaloo paratha, ,Gulab Jamun",1402,"VISA","Pashan","Pune","Maharashtra","India",411209,5,5,1
+"630",630,"U1083","",22," ,Chaat Papri,Chana Masala,Butter Naan,Steam Rice,Barfi",1692,"VISA","Deccan","Pune","Maharashtra","India",411961,2,1,2
+"631",631,"U1134","",15,"Dhokla,chicken Kabab,Dal Makhani,Tandoor Roti,Mutton Biryani,Gulab Jamun",1458,"VISA","Pashan","Pune","Maharashtra","India",411274,4,5,1
+"632",632,"U1136","",22,"paratha,chicken Kabab,Butter Chicken,Butter Naan,Veg Biryani, ",1423,"VISA","Deccan","Pune","Maharashtra","India",411663,5,4,5
+"633",633,"U1108","",11,"wada,Chili Chicken,Dal Makhani,Tandoor Roti,Chicken Biriyani,Cham-Cham",672,"VISA","Balewadi","Pune","Maharashtra","India",411700,2,2,1
+"634",634,"U1083","",22,"dosa, ,Alu Gobi,Chapati,Mutton Biryani,Kheer",1095,"VISA","Hadapsar","Pune","Maharashtra","India",411123,5,3,2
+"635",635,"U1134","",9,"dosa,Chicken 65,Paneer Butter Masala, ,Steam Rice,Kheer",497,"VISA","Swargate","Pune","Maharashtra","India",411006,5,5,2
+"636",636,"U1136","",18,"Dhokla,Chicken 65,Chana Masala,Butter Naan,Chicken Biriyani,Ice Cream",1834,"VISA","Parvati Hill","Pune","Maharashtra","India",411539,4,2,4
+"637",637,"U1108","",13,"idli,Chili Chicken,Beef Vindaloo, Aaloo paratha, ,Kulfi",304,"MasterCard-Eurocard","Aundh","Pune","Maharashtra","India",411381,5,1,4
+"638",638,"U1083","",15,"wada,Chicken 65,Chicken Tikka, ,Pulao,Ice Cream",352,"MasterCard-Eurocard","Bund Garden","Pune","Maharashtra","India",411085,5,4,1
+"639",639,"U1134","",10,"wada,Veg Kabab,Dal Makhani,Butter Naan,Chicken Biriyani,Kulfi",1368,"MasterCard-Eurocard","Bund Garden","Pune","Maharashtra","India",411832,4,1,1
+"640",640,"U1136","",12,"idli,Masala Papad,Chana Masala, ,Chicken Biriyani,Kheer",1470,"MasterCard-Eurocard","Pashan","Pune","Maharashtra","India",411146,2,4,4
+"641",641,"U1108","",8,"paratha,Chicken 65,Dal Makhani,Tandoor Roti,Mutton Biryani,Gulab Jamun",504,"MasterCard-Eurocard","Bibwewadi","Pune","Maharashtra","India",411169,2,5,3
+"642",642,"U1083","",14,"paratha,Veg Kabab, , ,Veg Biryani,Kulfi",1208,"MasterCard-Eurocard","Khadki","Pune","Maharashtra","India",411789,5,4,5
+"643",643,"U1134","",10,"wada,Chili Chicken,Chana Masala, ,Chicken Biriyani,Carrot Halwa",558,"MasterCard-Eurocard","Kothrud","Pune","Maharashtra","India",411825,4,1,1
+"644",644,"U1136","",23,"wada,chicken Kabab,Beef Vindaloo, Aaloo paratha,Chicken Biriyani,Kulfi",1588,"MasterCard-Eurocard","Chandan Nagar","Pune","Maharashtra","India",411658,4,5,1
+"645",645,"U1108","",12,"Dhokla,Chili Chicken,Butter Chicken,Tandoor Roti,Chicken Biriyani, ",1849,"MasterCard-Eurocard","Balewadi","Pune","Maharashtra","India",411501,2,5,2
+"646",646,"U1083","",16,"Dhokla,Veg Kabab,Alu Gobi,Tandoor Roti,Mutton Biryani,Gulab Jamun",412,"MasterCard-Eurocard","Handewadi","Pune","Maharashtra","India",411917,4,2,5
+"647",647,"U1134","",22,"idli,Chili Chicken,Alu Matar, ,Mutton Biryani,Barfi",1081,"MasterCard-Eurocard","Bibwewadi","Pune","Maharashtra","India",411330,3,1,1
+"648",648,"U1136","",20,"wada,Chili Chicken,Chicken Tikka, Aaloo paratha,Pulao, ",677,"MasterCard-Eurocard","Parvati Hill","Pune","Maharashtra","India",411126,1,4,5
+"649",649,"U1076","",14,"Dhokla,Chicken 65,Chana Masala,Butter Naan,Mutton Biryani, ",846,"cash","Pashan","Pune","Maharashtra","India",411169,2,5,5
+"650",650,"U1022","",21,"Dhokla,Chaat Papri,Butter Chicken,Butter Naan,Mutton Biryani,Gulab Jamun",787,"cash","Deccan","Pune","Maharashtra","India",411289,3,4,4
+"651",651,"U1024","",9," ,Masala Papad,Alu Matar, ,Veg Biryani,Ice Cream",1365,"cash","Baner","Pune","Maharashtra","India",411299,3,5,4
+"652",652,"U1101","",22,"Dhokla, , ,Tandoor Roti,Pulao, ",773,"cash","Wagholi","Pune","Maharashtra","India",411692,5,1,5
+"653",653,"U1076","",7,"dosa,Chaat Papri,Chana Masala, Aaloo paratha,Steam Rice,Carrot Halwa",830,"cash","Bavdhan","Pune","Maharashtra","India",411662,2,2,3
+"654",654,"U1022","",13,"wada,Veg Kabab,Chicken Tikka, ,Veg Biryani,Ice Cream",1077,"cash","Bavdhan","Pune","Maharashtra","India",411951,5,5,2
+"655",655,"U1024","",20,"dosa,Veg Kabab,Paneer Butter Masala, ,Veg Biryani,Kulfi",1578,"cash","Hadapsar","Pune","Maharashtra","India",411252,4,2,2
+"656",656,"U1101","",22,"dosa,chicken Kabab,Dal Makhani, ,Chicken Biriyani,Kheer",1670,"cash","Kharadi","Pune","Maharashtra","India",411097,4,5,3
+"657",657,"U1076","",19,"idli,Chili Chicken,Dal Makhani, ,Steam Rice, ",1519,"cash","Wadgaon Sheri","Pune","Maharashtra","India",411387,2,1,3
+"658",658,"U1022","",15,"dosa,chicken Kabab,Chicken Tikka, ,Pulao,Ice Cream",904,"cash","Pashan","Pune","Maharashtra","India",411968,5,5,5
+"659",659,"U1024","",18,"paratha,Chaat Papri,Chana Masala,Chapati,Veg Biryani,Gulab Jamun",1260,"cash","Yerwada","Pune","Maharashtra","India",411456,2,2,5
+"660",660,"U1101","",8,"Dhokla,Veg Kabab,Dal Makhani,Butter Naan,Veg Biryani,Barfi",370,"cash","Hadapsar","Pune","Maharashtra","India",411260,4,1,3
+"661",661,"U1076","",18,"dosa,Veg Kabab,Dal Makhani, ,Steam Rice,Cham-Cham",1896,"cash","Baner","Pune","Maharashtra","India",411018,3,3,3
+"662",662,"U1022","",11," ,chicken Kabab,Beef Vindaloo,Chapati,Veg Biryani,Carrot Halwa",603,"cash","Khadki","Pune","Maharashtra","India",411677,3,2,5
+"663",663,"U1024","",19,"paratha,Masala Papad, ,Butter Naan,Chicken Biriyani, ",770,"cash","Parvati Hill","Pune","Maharashtra","India",411676,5,5,5
+"664",664,"U1101","",18," ,Chicken 65,Alu Matar,Tandoor Roti, ,Cham-Cham",929,"cash","Koregaon Park","Pune","Maharashtra","India",411871,5,2,2
+"665",665,"U1076","",22," ,Chicken 65,Paneer Butter Masala,Tandoor Roti, ,Gulab Jamun",1557,"cash","Bund Garden","Pune","Maharashtra","India",411981,1,5,5
+"666",666,"U1022","",18,"Dhokla, , ,Chapati, ,Kulfi",1280,"cash","Kothrud","Pune","Maharashtra","India",411953,2,4,5
+"667",667,"U1024","",19," ,Chicken 65,Chana Masala,Butter Naan,Chicken Biriyani,Carrot Halwa",1179,"cash","Parvati Hill","Pune","Maharashtra","India",411555,4,4,1
