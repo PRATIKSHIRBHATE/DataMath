@@ -1,0 +1,36 @@
+ItemName,Category,Unit_Price
+dosa,southindian,70
+idli,southindian,60
+wada,southindian,45
+paratha,southindian,70
+Dhokla,southindian,50
+Chaat Papri,starter,50
+Chicken 65,starter,240
+Chili Chicken,starter,260
+chicken Kabab,starter,320
+Veg Kabab,starter,270
+Masala Papad,starter,40
+Alu Gobi,Sabji,140
+Alu Matar,Sabji,145
+Beef Vindaloo,Sabji,420
+Butter Chicken,Sabji,340
+Chana Masala,Sabji,130
+Chicken Tikka,Sabji,360
+Dal Makhani,Sabji,125
+Paneer Butter Masala,Sabji,190
+Chapati,Bread,20
+Butter Naan,Bread,40
+Aaloo paratha,Bread,70
+Tandoor Roti,Bread,30
+Chicken Biriyani,Rice,360
+Steam Rice,Rice,160
+Veg Biryani,Rice,280
+Mutton Biryani,Rice,400
+Pulao,Rice,190
+Barfi,Sweet,60
+Carrot Halwa,Sweet,120
+Cham-Cham,Sweet,80
+Gulab Jamun,Sweet,70
+Kheer,Sweet,80
+Kulfi,Sweet,50
+Ice Cream,Sweet,75
